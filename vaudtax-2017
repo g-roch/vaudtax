@@ -1,0 +1,21 @@
+#!/bin/bash
+JAVA_NOT_FOUND_MSG="Aucun interpréteur Java n'a pu être trouvé sur la ligne de commande.
+Merci d'installer Java à l'aide du gestionnaire de paquet de votre distribution,
+ou sur http://www.java.com/fr/download"
+
+classpath='lib/dvbern-lib-update.jar'
+
+if [ ! -f ///$classpath ] ; then
+	cd `dirname $0`
+else
+	cd //
+fi
+
+type java &> /dev/null
+if [ "$?" -ne "0" ] ; then
+        echo $JAVA_NOT_FOUND_MSG
+        which zenity &> /dev/null && zenity --no-wrap --no-markup --warning --window-icon=error --text="$JAVA_NOT_FOUND_MSG"
+        exit 1
+fi
+
+java -cp $classpath ch.dvbern.lib.update.Launcher

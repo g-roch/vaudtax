@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<versionConfig xmlns="http://www.dvbern.ch/taxme/lib-update"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.dvbern.ch/taxme/lib-update http://download.dvbern.ch/taxme/lib-update/schemas/version_1.1.xsd">
+	<appName>VaudTax 2017</appName>
+	<version>1.3</version>
+	<mainClass>ch.dvbern.tax.vd.presentation.cd.TaxmeVdLauncher</mainClass>
+	<logFile>logs/startup.log</logFile>
+	<userFolder>VaudTax2017</userFolder>
+	<bootstrap>vaudtax-2017</bootstrap>
+	<classPath>
+		<entry>lib/vaudtax-2017.jar</entry>
+		<entry arch="arch32">lib/native/swt_32.jar</entry>
+		<entry arch="arch64">lib/native/swt_64.jar</entry>
+		<!-- We ship a 32bit JRE on windows: always keep the entry on the
+		classpath. -->
+		<entry os="win">lib/native/swt_32.jar</entry>
+	</classPath>
+	<bundledJRE>jre</bundledJRE>
+</versionConfig>

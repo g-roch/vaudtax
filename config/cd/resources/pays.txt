@@ -1,0 +1,196 @@
+# [Country internal ID] [Country No OFS] [Country label] [ISO three-letter code] [ISO two-letter code]
+0	8100	Suisse	SUI	CH
+1	8501	Afghanistan	AFG	AF
+2	8349	Afrique du Sud	ZAF	ZA
+3	8201	Albanie	ALB	AL
+4	8304	Algérie	DZA	DZ
+5	8207	Allemagne	DEU	DE
+6	8202	Andorre	AND	AD
+7	8305	Angola	AGO	AO
+8	8442	Antigua-et-Barbuda	ATG	AG
+9	8535	Arabie saoudite	SAU	SA
+10	8401	Argentine	ARG	AR
+11	8560	Arménie	ARM	AM
+12	8601	Australie	AUS	AU
+13	8229	Autriche	AUT	AT
+14	8561	Azerbaïdjan	AZE	AZ
+15	8402	Bahamas	BHS	BS
+16	8502	Bahreïn	BHR	BH
+17	8546	Bangladesh	BGD	BD
+18	8403	Barbade	BRB	BB
+19	8266	Bélarus	BLR	BY
+20	8204	Belgique	BEL	BE
+21	8419	Belize	BLZ	BZ
+22	8309	Bénin	BEN	BJ
+23	8503	Bhoutan	BTN	BT
+24	8405	Bolivie	BOL	BO
+25	8252	Bosnie et Herzégovine	BIH	BA
+26	8307	Botswana	BWA	BW
+27	8406	Brésil	BRA	BR
+28	8504	Brunéi Darussalam	BRN	BN
+29	8205	Bulgarie	BGR	BG
+30	8337	Burkina Faso	BFA	BF
+31	8308	Burundi	BDI	BI
+32	8518	Cambodge	KHM	KH
+33	8317	Cameroun	CMR	CM
+34	8423	Canada	CAN	CA
+35	8319	Cap-Vert	CPV	CV
+36	8407	Chili	CHL	CL
+37	8508	Chine	CHN	CN
+38	8242	Chypre	CYP	CY
+39	8241	Cité du Vatican	VAT	VA
+40	8424	Colombie	COL	CO
+41	8321	Comores	COM	KM
+42	8322	Congo (Brazzaville)	COG	CG
+43	8323	Congo (Kinshasa)	COD	CD
+44	8530	Corée (Nord)	PRK	KP
+45	8539	Corée (Sud)	KOR	KR
+46	8408	Costa Rica	CRI	CR
+47	8310	Côte d'Ivoire	CIV	CI
+48	8250	Croatie	HRV	HR
+49	8425	Cuba	CUB	CU
+50	8206	Danemark	DNK	DK
+51	8303	Djibouti	DJI	DJ
+52	8440	Dominique	DMA	DM
+53	8359	Egypte	EGY	EG
+54	8411	El Salvador	SLV	SV
+55	8532	Emirats arabes unis	ARE	AE
+56	8410	Equateur	ECU	EC
+57	8362	Erythrée	ERI	ER
+58	8236	Espagne	ESP	ES
+59	8260	Estonie	EST	EE
+60	8439	Etats-Unis	USA	US
+61	8302	Ethiopie	ETH	ET
+62	8602	Fidji	FJI	FJ
+63	8211	Finlande	FIN	FI
+64	8212	France	FRA	FR
+65	8311	Gabon	GAB	GA
+66	8312	Gambie	GMB	GM
+67	8562	Géorgie	GEO	GE
+68	8313	Ghana	GHA	GH
+69	8214	Grèce	GRC	GR
+70	8441	Grenade	GRD	GD
+71	8415	Guatemala	GTM	GT
+72	8315	Guinée	GIN	GN
+73	8301	Guinée équatoriale	GNQ	GQ
+74	8314	Guinée-Bissau	GNB	GW
+75	8417	Guyana	GUY	GY
+76	8418	Haïti	HTI	HT
+77	8420	Honduras	HND	HN
+78	8240	Hongrie	HUN	HU
+79	8617	Iles Marshall	MHL	MH
+80	8614	Iles Salomon	SLB	SB
+81	8510	Inde	IND	IN
+82	8511	Indonésie	IDN	ID
+83	8512	Irak	IRQ	IQ
+84	8513	Iran	IRN	IR
+85	8216	Irlande	IRL	IE
+86	8217	Islande	ISL	IS
+87	8514	Israël	ISR	IL
+88	8218	Italie	ITA	IT
+89	8421	Jamaïque	JAM	JM
+90	8515	Japon	JPN	JP
+91	8517	Jordanie	JOR	JO
+92	8563	Kazakhstan	KAZ	KZ
+93	8320	Kenya	KEN	KE
+94	8564	Kirghizistan	KGZ	KG
+95	8616	Kiribati	KIR	KI
+96	8256	Kosovo	XZA	XK
+97	8521	Koweït	KWT	KW
+98	8522	Laos	LAO	LA
+99	8324	Lesotho	LSO	LS
+100	8261	Lettonie	LVA	LV
+101	8523	Liban	LBN	LB
+102	8325	Libéria	LBR	LR
+103	8326	Libye	LBY	LY
+104	8222	Liechtenstein	LIE	LI
+105	8262	Lituanie	LTU	LT
+106	8223	Luxembourg	LUX	LU
+107	8255	Macédoine	MKD	MK
+108	8327	Madagascar	MDG	MG
+109	8525	Malaisie	MYS	MY
+110	8329	Malawi	MWI	MW
+111	8526	Maldives	MDV	MV
+112	8330	Mali	MLI	ML
+113	8224	Malte	MLT	MT
+114	8331	Maroc	MAR	MA
+115	8333	Maurice	MUS	MU
+116	8332	Mauritanie	MRT	MR
+117	8427	Mexique	MEX	MX
+118	8618	Micronésie	FSM	FM
+119	8263	Moldova	MDA	MD
+120	8226	Monaco	MCO	MC
+121	8528	Mongolie	MNG	MN
+122	8254	Monténégro	MNE	ME
+123	8334	Mozambique	MOZ	MZ
+124	8505	Myanmar	MMR	MM
+125	8351	Namibie	NAM	NA
+126	8604	Nauru	NRU	NR
+127	8529	Népal	NPL	NP
+128	8429	Nicaragua	NIC	NI
+129	8335	Niger	NER	NE
+130	8336	Nigéria	NGA	NG
+131	8228	Norvège	NOR	NO
+132	8607	Nouvelle-Zélande	NZL	NZ
+133	8527	Oman	OMN	OM
+134	8358	Ouganda	UGA	UG
+135	8567	Ouzbékistan	UZB	UZ
+136	8533	Pakistan	PAK	PK
+137	8619	Palaos	PLW	PW
+138	8430	Panama	PAN	PA
+139	8608	Papouasie-Nouvelle-Guinée	PNG	PG
+140	8431	Paraguay	PRY	PY
+141	8227	Pays-Bas	NLD	NL
+142	8432	Pérou	PER	PE
+143	8534	Philippines	PHL	PH
+144	8230	Pologne	POL	PL
+145	8231	Portugal	PRT	PT
+146	8519	Qatar	QAT	QA
+147	8360	République centrafricaine	CAF	CF
+148	8409	République dominicaine	DOM	DO
+149	8244	République tchèque	CZE	CZ
+150	8232	Roumanie	ROU	RO
+151	8215	Royaume-Uni	GBR	GB
+152	8264	Russie	RUS	RU
+153	8341	Rwanda	RWA	RW
+154	8443	Sainte-Lucie	LCA	LC
+155	8445	Saint-Kitts-et-Nevis	KNA	KN
+156	8233	Saint-Marin	SMR	SM
+157	8444	Saint-Vincent-et-les Grenadines	VCT	VC
+158	8612	Samoa	WSM	WS
+159	8344	Sao Tomé-et-Principe	STP	ST
+160	8345	Sénégal	SEN	SN
+161	8248	Serbie	SRB	RS
+162	8346	Seychelles	SYC	SC
+163	8347	Sierra Leone	SLE	SL
+164	8537	Singapour	SGP	SG
+165	8243	Slovaquie	SVK	SK
+166	8251	Slovénie	SVN	SI
+167	8348	Somalie	SOM	SO
+168	8350	Soudan	SDN	SD
+169	8363	Soudan du Sud	SSD	SS
+170	8506	Sri Lanka	LKA	LK
+171	8234	Suède	SWE	SE
+172	8435	Suriname	SUR	SR
+173	8352	Swaziland	SWZ	SZ
+174	8541	Syrie	SYR	SY
+175	8565	Tadjikistan	TJK	TJ
+176	8353	Tanzanie	TZA	TZ
+177	8356	Tchad	TCD	TD
+178	8542	Thaïlande	THA	TH
+179	8547	Timor-Leste	TLS	TL
+180	8354	Togo	TGO	TG
+181	8610	Tonga	TON	TO
+182	8436	Trinité-et-Tobago	TTO	TT
+183	8357	Tunisie	TUN	TN
+184	8566	Turkménistan	TKM	TM
+185	8239	Turquie	TUR	TR
+186	8615	Tuvalu	TUV	TV
+187	8265	Ukraine	UKR	UA
+188	8437	Uruguay	URY	UY
+189	8605	Vanuatu	VUT	VU
+190	8438	Venezuela	VEN	VE
+191	8545	Vietnam	VNM	VN
+192	8516	Yémen	YEM	YE
+193	8343	Zambie	ZMB	ZM
+194	8340	Zimbabwe	ZWE	ZW

@@ -1,0 +1,3 @@
+#code	bezeichnung
+1	Rente viagère
+2	Charge durable

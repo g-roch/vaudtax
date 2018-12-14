@@ -1,0 +1,2241 @@
+# [canton] [OFS number] [name] [coeff. valeur locative]
+22	4551	Aadorf	1
+4	4001	Aarau	1
+7	301	Aarberg	1
+4	4271	Aarburg	1
+7	321	Aarwangen	1
+4	4221	Abtwil	1
+1	5621	Aclens	0.99
+21	5048	Acquarossa	1
+7	561	Adelboden	1
+13	1051	Adligenswil	1
+26	21	Adlikon	1
+26	131	Adliswil	1
+19	2421	Aedermannsdorf	1
+7	401	Aefligen	1
+7	731	Aegerten	1
+5	2761	Aesch (BL)	1
+13	1021	Aesch (LU)	1
+26	241	Aesch (ZH)	1
+19	2511	Aeschi (SO)	1
+7	562	Aeschi bei Spiez	1
+26	1	Aeugst am Albis	1
+22	4711	Affeltrangen	1
+26	2	Affoltern am Albis	1
+7	951	Affoltern im Emmental	1
+24	6101	Agarn	1
+1	5742	Agiez	0.77
+21	5141	Agno	1
+1	5401	Aigle	0.87
+9	6601	Aire-la-Ville	1
+21	5061	Airolo	1
+13	1121	Alberswil	1
+24	6102	Albinen	1
+11	3542	Albula/Alvra	1
+7	402	Alchenstorf	1
+1	5851	Allaman	1.09
+12	6771	Alle	1
+7	630	Allmendingen	1
+5	2762	Allschwil	1
+16	1401	Alpnach	1
+18	1361	Alpthal	1
+13	1122	Altbüron	1
+23	1201	Altdorf (UR)	1
+18	1341	Altendorf	1
+8	2291	Alterswil	1
+26	211	Altikon	1
+13	1123	Altishofen	1
+22	4641	Altnau	1
+21	5237	Alto Malcantone	1
+20	3251	Altstätten	1
+13	1022	Altwis	1
+20	3311	Amden	1
+22	4881	Amlikon-Bissegg	1
+4	4191	Ammerswil	1
+22	4461	Amriswil	1
+7	921	Amsoldingen	1
+11	3701	Andeer	1
+26	30	Andelfingen	1
+23	1202	Andermatt	1
+11	3611	Andiast	1
+20	3441	Andwil (SG)	1
+9	6602	Anières	1
+24	6252	Anniviers	1
+5	2841	Anwil	1
+3	3101	Appenzell	1
+1	5421	Apples	0.88
+21	5143	Aranno	1
+24	6261	Arbaz	1
+21	5001	Arbedo-Castione	1
+5	2881	Arboldswil	1
+22	4401	Arbon	1
+7	381	Arch	1
+8	2171	Arconciel	1
+24	6021	Ardon	1
+5	2821	Arisdorf	1
+4	4222	Aristau	1
+5	2763	Arlesheim	1
+1	5701	Arnex-sur-Nyon	1.11
+1	5743	Arnex-sur-Orbe	0.77
+4	4061	Arni (AG)	1
+7	602	Arni (BE)	1
+21	5144	Arogno	1
+11	3921	Arosa	1
+18	1362	Arth	1
+1	5702	Arzier-Le Muids	1.03
+21	5091	Ascona	1
+1	5511	Assens	0.98
+21	5146	Astano	1
+8	2321	Attalens	1
+4	4272	Attelwil	1
+23	1203	Attinghausen	1
+7	971	Attiswil	1
+20	3231	Au (SG)	1
+1	5422	Aubonne	1
+8	2061	Auboranges	1
+4	4091	Auenstein	1
+5	2822	Augst	1
+24	6191	Ausserberg	1
+7	322	Auswil	1
+8	2173	Autigny	1
+4	4223	Auw	1
+21	5324	Avegno Gordevio	1
+1	5451	Avenches	0.79
+11	3681	Avers	1
+8	2174	Avry	1
+9	6603	Avully	1
+9	6604	Avusy	1
+24	6082	Ayent	1
+25	1701	Baar	1
+26	51	Bachenbülach	1
+26	81	Bachs	1
+20	3291	Bad Ragaz	1
+4	4323	Bad Zurzach	1
+4	4021	Baden	1
+24	6031	Bagnes	1
+4	4301	Baldingen	1
+21	5242	Balerna	1
+20	3232	Balgach	1
+1	5744	Ballaigues	0.67
+1	5423	Ballens	0.88
+13	1023	Ballwil	1
+19	2541	Balm bei Günsberg	1
+19	2422	Balsthal	1
+24	6281	Baltschieder	1
+7	323	Bannwil	1
+9	6605	Bardonnex	1
+26	111	Bäretswil	1
+7	302	Bargen (BE)	1
+17	2931	Bargen (SH)	1
+7	403	Bäriswil	1
+19	2611	Bärschwil	1
+22	4536	Basadingen-Schlattingen	1
+6	2701	Basel	1
+8	2162	Bas-Intyamon	1
+12	6807	Basse-Allaine	1
+26	52	Bassersdorf	1
+1	5703	Bassins	1.03
+7	533	Bätterkinden	1
+19	2471	Bättwil	1
+23	1204	Bauen	1
+1	5745	Baulmes	0.81
+26	297	Bauma	1
+1	5746	Bavois	0.91
+7	571	Beatenberg	1
+15	1501	Beckenried	1
+21	5148	Bedano	1
+21	5149	Bedigliora	1
+21	5063	Bedretto	1
+17	2951	Beggingen	1
+1	5704	Begnins	1.03
+4	4224	Beinwil (Freiamt)	1
+19	2612	Beinwil (SO)	1
+4	4131	Beinwil am See	1
+8	2175	Belfaux	1
+19	2542	Bellach	1
+9	6606	Bellevue	1
+4	4022	Bellikon	1
+21	5002	Bellinzona	1
+7	732	Bellmund	1
+24	6052	Bellwald	1
+8	2053	Belmont-Broye	1
+1	5581	Belmont-sur-Lausanne	1.08
+1	5902	Belmont-sur-Yverdon	0.79
+7	861	Belp	1
+7	681	Belprahon	1
+20	3312	Benken (SG)	1
+26	22	Benken (ZH)	1
+5	2882	Bennwil	1
+1	5512	Bercher	0.85
+20	3211	Berg (SG)	1
+22	4891	Berg (TG)	1
+26	23	Berg am Irchel	1
+4	4023	Bergdietikon	1
+11	3521	Bergün/Bravuogn	1
+4	4062	Berikon	1
+17	2932	Beringen	1
+7	972	Berken	1
+22	4801	Berlingen	1
+7	351	Bern	1
+20	3233	Berneck	1
+9	6607	Bernex	1
+1	5424	Berolle	0.88
+13	1081	Beromünster	1
+4	4226	Besenbüren	1
+7	973	Bettenhausen	1
+1	5471	Bettens	0.99
+6	2702	Bettingen	1
+19	2543	Bettlach	1
+24	6205	Bettmeralp	1
+22	4716	Bettwiesen	1
+4	4227	Bettwil	1
+12	6773	Beurnevésin	1
+14	6402	Bevaix	1
+11	3781	Bever	1
+1	5402	Bex	0.76
+21	5281	Biasca	1
+19	2513	Biberist	1
+4	4002	Biberstein	1
+22	4721	Bichelsee-Balterswil	1
+7	371	Biel/Bienne	1
+5	2764	Biel-Benken	1
+1	5425	Bière	0.84
+19	2445	Biezwil	1
+7	603	Biglen	1
+8	2063	Billens-Hennens	1
+24	6054	Binn	1
+5	2765	Binningen	1
+21	5151	Bioggio	1
+1	5903	Bioley-Magnoux	0.78
+1	5513	Bioley-Orjulaz	0.98
+26	242	Birmensdorf (ZH)	1
+4	4024	Birmenstorf (AG)	1
+4	4092	Birr	1
+4	4093	Birrhard	1
+4	4132	Birrwil	1
+5	2766	Birsfelden	1
+22	4901	Birwinken	1
+22	4471	Bischofszell	1
+21	5154	Bissone	1
+24	6172	Bister	1
+24	6173	Bitsch	1
+24	6192	Blatten	1
+5	2781	Blauen	1
+7	324	Bleienbach	1
+21	5049	Blenio	1
+1	5881	Blonay	1.01
+7	922	Blumenstein	1
+4	4302	Böbikon	1
+5	2842	Böckten	1
+21	5064	Bodio	1
+12	6702	Boécourt	1
+1	5747	Bofflens	0.77
+1	5705	Bogis-Bossey	1.11
+19	2514	Bolken	1
+7	352	Bolligen	1
+7	791	Boltigen	1
+11	3721	Bonaduz	1
+12	6774	Boncourt	1
+12	6775	Bonfol	1
+7	572	Bönigen	1
+19	2571	Boningen	1
+4	4192	Boniswil	1
+26	3	Bonstetten	1
+1	5551	Bonvillars	0.85
+26	82	Boppelsen	1
+1	5706	Borex	1.15
+21	5304	Bosco/Gurin	1
+8	2295	Bösingen	1
+8	2323	Bossonnens	1
+4	4228	Boswil	1
+1	5514	Bottens	1
+4	4273	Bottenwil	1
+8	2123	Botterens	1
+22	4643	Bottighofen	1
+5	2767	Bottmingen	1
+4	4303	Böttstein	1
+14	6404	Boudry	1
+1	5426	Bougy-Villars	1.01
+1	5661	Boulens	0.8
+1	5613	Bourg-en-Lavaux	1.01
+24	6032	Bourg-Saint-Pierre	1
+1	5472	Bournens	0.99
+12	6703	Bourrignon	1
+1	5473	Boussens	0.99
+24	6131	Bovernier	1
+7	605	Bowil	1
+4	4124	Bözberg	1
+4	4094	Bözen	1
+22	4723	Braunau	1
+11	3792	Bregaglia	1
+21	5269	Breggia	1
+11	3981	Breil/Brigels	1
+19	2613	Breitenbach	1
+1	5622	Bremblens	1.1
+4	4063	Bremgarten (AG)	1
+7	353	Bremgarten bei Bern	1
+7	606	Brenzikofen	1
+1	5515	Bretigny-sur-Morrens	1
+1	5748	Bretonnières	0.77
+5	2883	Bretzwil	1
+7	573	Brienz (BE)	1
+7	574	Brienzwiler	1
+24	6002	Brig-Glis	1
+21	5095	Brione (Verzasca)	1
+21	5096	Brione sopra Minusio	1
+5	2782	Brislach	1
+21	5097	Brissago	1
+4	4274	Brittnau	1
+8	2124	Broc	1
+14	6433	Brot-Plamboz	1
+4	4095	Brugg	1
+7	733	Brügg	1
+4	4193	Brunegg	1
+8	2292	Brünisried	1
+21	5160	Brusino Arsizio	1
+11	3551	Brusio	1
+7	491	Brüttelen	1
+26	213	Brütten	1
+5	2823	Bubendorf	1
+26	112	Bubikon	1
+17	2961	Buch (SH)	1
+26	24	Buch am Irchel	1
+17	2933	Buchberg	1
+19	2465	Buchegg	1
+7	923	Buchholterberg	1
+1	5623	Buchillon	1.07
+13	1052	Buchrain	1
+4	4003	Buchs (AG)	1
+20	3271	Buchs (SG)	1
+26	83	Buchs (ZH)	1
+5	2843	Buckten	1
+7	382	Büetigen	1
+7	734	Bühl	1
+2	3021	Bühler	1
+26	53	Bülach	1
+8	2125	Bulle	1
+1	5552	Bullet	0.66
+4	4229	Bünzen	1
+15	1502	Buochs	1
+24	6193	Bürchen	1
+12	6778	Bure	1
+19	2472	Büren (SO)	1
+7	383	Büren an der Aare	1
+4	4133	Burg (AG)	1
+5	2783	Burg im Leimental	1
+7	404	Burgdorf	1
+7	863	Burgistein	1
+22	4911	Bürglen (TG)	1
+23	1205	Bürglen (UR)	1
+13	1082	Büron	1
+1	5852	Bursinel	1.07
+1	5853	Bursins	1.07
+1	5854	Burtigny	1.07
+11	3804	Buseno	1
+19	2614	Büsserach	1
+1	5624	Bussigny	1.1
+22	4921	Bussnang	1
+7	325	Busswil bei Melchnau	1
+1	5625	Bussy-Chardonney	1.07
+1	5663	Bussy-sur-Moudon	0.87
+20	3395	Bütschwil-Ganterschwil	1
+17	2914	Büttenhardt	1
+4	4064	Büttikon	1
+13	1083	Buttisholz	1
+4	4230	Buttwil	1
+5	2844	Buus	1
+21	5161	Cademario	1
+21	5162	Cadempino	1
+21	5003	Cadenazzo	1
+11	3837	Calanca	1
+11	3831	Cama	1
+21	5307	Campo (Vallemaggia)	1
+21	5167	Canobbio	1
+21	5226	Capriasca	1
+9	6608	Carouge (GE)	1
+9	6609	Cartigny	1
+21	5171	Caslano	1
+11	3805	Castaneda	1
+21	5249	Castel San Pietro	1
+11	3703	Casti-Wergenstein	1
+11	3661	Cazis	1
+11	3782	Celerina/Schlarigna	1
+9	6610	Céligny	1
+21	5397	Centovalli	1
+21	5309	Cerentino	1
+21	5310	Cevio	1
+24	6232	Chalais	1
+25	1702	Cham	1
+1	5904	Chamblon	0.84
+24	6022	Chamoson	1
+1	5553	Champagne	0.81
+24	6151	Champéry	1
+7	683	Champoz	1
+1	5812	Champtauroz	0.72
+1	5905	Champvent	0.84
+9	6611	Chancy	1
+8	2066	Chapelle (Glâne)	1
+1	5882	Chardonne	1.03
+24	6132	Charrat	1
+1	5841	Château-d'Oex	0.74
+8	2325	Châtel-Saint-Denis	1
+8	2128	Châtel-sur-Montsalvens	1
+8	2008	Châtillon (FR)	1
+12	6704	Châtillon (JU)	1
+8	2068	Châtonnaye	1
+1	5707	Chavannes-de-Bogis	1.11
+1	5708	Chavannes-des-Bois	1.11
+1	5907	Chavannes-le-Chêne	0.78
+1	5475	Chavannes-le-Veyron	0.91
+1	5627	Chavannes-près-Renens	1.06
+1	5665	Chavannes-sur-Moudon	0.87
+1	5749	Chavornay	0.91
+8	2009	Cheiry	1
+9	6612	Chêne-Bougeries	1
+9	6613	Chêne-Bourg	1
+8	2177	Chénens	1
+1	5908	Chêne-Pâquier	0.78
+1	5909	Cheseaux-Noréaz	0.89
+1	5582	Cheseaux-sur-Lausanne	1.05
+1	5709	Chéserex	1.15
+1	5403	Chessel	0.85
+1	5476	Chevilly	0.95
+1	5813	Chevroux	0.77
+1	5601	Chexbres	1.03
+8	2055	Cheyres-Châbles	1
+21	5250	Chiasso	1
+1	5628	Chigny	0.99
+24	6235	Chippis	1
+9	6614	Choulex	1
+11	3901	Chur	1
+11	3911	Churwalden	1
+1	5629	Clarmont	0.99
+7	661	Clavaleyres	1
+12	6808	Clos du Doubs	1
+12	6781	Coeuve	1
+1	5710	Coinsins	1.03
+21	5251	Coldrerio	1
+9	6615	Collex-Bossy	1
+21	5236	Collina d'Oro	1
+24	6152	Collombey-Muraz	1
+9	6616	Collonge-Bellerive	1
+24	6211	Collonges	1
+9	6617	Cologny	1
+21	5176	Comano	1
+1	5711	Commugny	1.11
+1	5554	Concise	0.85
+9	6618	Confignon	1
+11	3881	Conters im Prättigau	1
+24	6023	Conthey	1
+1	5712	Coppet	1.11
+12	6705	Corban	1
+1	5404	Corbeyrier	0.85
+8	2129	Corbières	1
+7	687	Corcelles (BE)	1
+14	6407	Corcelles-Cormondrèche	1
+1	5785	Corcelles-le-Jorat	0.92
+1	5555	Corcelles-près-Concise	0.85
+1	5816	Corcelles-près-Payerne	0.83
+7	431	Corgémont	1
+21	5102	Corippo	1
+8	2183	Corminboeuf	1
+7	432	Cormoret	1
+14	6451	Cornaux	1
+12	6782	Cornol	1
+1	5883	Corseaux	1.03
+8	2185	Corserey	1
+9	6619	Corsier (GE)	1
+1	5884	Corsier-sur-Vevey	0.99
+14	6408	Cortaillod	1
+7	433	Cortébert	1
+1	5477	Cossonay	0.95
+8	2186	Cottens (FR)	1
+1	5478	Cottens (VD)	0.91
+12	6706	Courchapoix	1
+12	6783	Courchavon	1
+12	6784	Courgenay	1
+8	2250	Courgevaux	1
+12	6708	Courrendlin	1
+12	6709	Courroux	1
+7	690	Court	1
+12	6785	Courtedoux	1
+7	434	Courtelary	1
+8	2254	Courtepin	1
+12	6710	Courtételle	1
+24	6253	Crans-Montana	1
+1	5713	Crans-près-Céligny	1.11
+1	5714	Crassier	1.15
+7	691	Crémines	1
+8	2257	Cressier (FR)	1
+14	6452	Cressier (NE)	1
+8	2130	Crésuz	1
+1	5583	Crissier	1.04
+21	5178	Croglio	1
+1	5910	Cronay	0.78
+1	5752	Croy	0.77
+1	5479	Cuarnens	0.88
+1	5911	Cuarny	0.78
+1	5456	Cudrefin	0.8
+21	5138	Cugnasco-Gerra	1
+8	2011	Cugy (FR)	1
+1	5516	Cugy (VD)	1.03
+21	5180	Cureglia	1
+21	5181	Curio	1
+1	5669	Curtilles	0.77
+26	25	Dachsen	1
+26	214	Dägerlen	1
+13	1125	Dagmersellen	1
+1	5480	Daillens	0.99
+15	1503	Dallenwil	1
+26	84	Dällikon	1
+21	5071	Dalpe	1
+12	6787	Damphreux	1
+19	2572	Däniken	1
+26	85	Dänikon	1
+9	6620	Dardagny	1
+7	575	Därligen	1
+7	761	Därstetten	1
+26	215	Dättlikon	1
+11	3851	Davos	1
+20	3401	Degersheim	1
+7	535	Deisswil bei Münchenbuchsee	1
+19	2516	Deitingen	1
+12	6711	Delémont	1
+8	2051	Delley-Portalban	1
+1	5912	Démoret	0.78
+1	5631	Denens	1.07
+1	5632	Denges	1.1
+4	4004	Densbüren	1
+19	2517	Derendingen	1
+12	6712	Develier	1
+5	2884	Diegten	1
+26	86	Dielsdorf	1
+7	536	Diemerswil	1
+7	762	Diemtigen	1
+5	2845	Diepflingen	1
+20	3234	Diepoldsau	1
+13	1053	Dierikon	1
+7	385	Diessbach bei Büren	1
+22	4545	Diessenhofen	1
+26	243	Dietikon	1
+26	54	Dietlikon	1
+4	4231	Dietwil	1
+26	216	Dinhard	1
+4	4194	Dintikon	1
+11	3982	Disentis/Mustér	1
+5	2784	Dittingen	1
+1	5481	Dizy	0.95
+11	3722	Domat/Ems	1
+11	3673	Domleschg	1
+1	5671	Dompierre (VD)	0.77
+11	3705	Donat	1
+1	5913	Donneloye	0.78
+13	1001	Doppleschwand	1
+24	6212	Dorénaz	1
+26	26	Dorf	1
+17	2915	Dörflingen	1
+19	2473	Dornach	1
+4	4065	Dottikon	1
+4	4304	Döttingen	1
+7	386	Dotzigen	1
+22	4406	Dozwil	1
+19	2535	Drei Höfe	1
+26	191	Dübendorf	1
+8	2293	Düdingen	1
+5	2785	Duggingen	1
+1	5715	Duillier	1.15
+19	2573	Dulliken	1
+1	5855	Dully	1.07
+26	113	Dürnten	1
+4	4134	Dürrenäsch	1
+7	952	Dürrenroth	1
+13	1126	Ebersecken	1
+13	1054	Ebikon	1
+20	3352	Ebnat-Kappel	1
+1	5518	Echallens	0.99
+1	5633	Echandens	1.1
+8	2131	Echarlens	1
+1	5634	Echichens	0.99
+1	5482	Eclépens	0.95
+8	2072	Ecublens (FR)	1
+1	5635	Ecublens (VD)	1.06
+12	6713	Ederswiler	1
+4	4096	Effingen	1
+19	2401	Egerkingen	1
+26	192	Egg	1
+4	4066	Eggenwil	1
+24	6004	Eggerberg	1
+20	3212	Eggersriet	1
+7	901	Eggiwil	1
+26	55	Eglisau	1
+4	4195	Egliswil	1
+22	4411	Egnach	1
+13	1127	Egolzwil	1
+4	4049	Ehrendingen	1
+13	1084	Eich	1
+20	3252	Eichberg	1
+4	4161	Eiken	1
+18	1301	Einsiedeln	1
+24	6194	Eischoll	1
+24	6282	Eisten	1
+4	4097	Elfingen	1
+26	217	Elgg	1
+26	218	Ellikon an der Thur	1
+26	219	Elsau	1
+24	6283	Embd	1
+26	56	Embrach	1
+13	1024	Emmen	1
+15	1504	Emmetten	1
+4	4305	Endingen	1
+16	1402	Engelberg	1
+14	6453	Enges	1
+4	4026	Ennetbaden	1
+15	1505	Ennetbürgen	1
+15	1506	Ennetmoos	1
+13	1002	Entlebuch	1
+1	5584	Epalinges	1.13
+8	2189	Ependes (FR)	1
+1	5914	Ependes (VD)	0.79
+19	2574	Eppenberg-Wöschnau	1
+7	735	Epsach	1
+5	2885	Eptingen	1
+24	6104	Ergisch	1
+7	953	Eriswil	1
+7	924	Eriz	1
+7	492	Erlach	1
+22	4476	Erlen	1
+26	151	Erlenbach (ZH)	1
+7	763	Erlenbach im Simmental	1
+4	4005	Erlinsbach (AG)	1
+19	2503	Erlinsbach (SO)	1
+22	4646	Ermatingen	1
+13	1025	Ermensee	1
+24	6056	Ernen	1
+19	2615	Erschwil	1
+7	405	Ersigen	1
+23	1206	Erstfeld	1
+13	1026	Eschenbach (LU)	1
+20	3342	Eschenbach (SG)	1
+22	4806	Eschenz	1
+7	692	Eschert	1
+22	4724	Eschlikon	1
+13	1010	Escholzmatt-Marbach	1
+1	5788	Essertes	0.92
+1	5856	Essertines-sur-Rolle	1.07
+1	5520	Essertines-sur-Yverdon	0.85
+8	2054	Estavayer	1
+1	5521	Etagnières	0.98
+1	5636	Etoy	1.07
+5	2768	Ettingen	1
+13	1128	Ettiswil	1
+19	2518	Etziken	1
+7	372	Evilard	1
+24	6213	Evionnaz	1
+24	6083	Evolène	1
+1	5716	Eysins	1.15
+7	925	Fahrni	1
+4	4196	Fahrwangen	1
+12	6789	Fahy	1
+21	5072	Faido	1
+11	3572	Falera	1
+26	193	Fällanden	1
+1	5458	Faoug	0.79
+7	975	Farnern	1
+1	5427	Féchy	1.01
+26	172	Fehraltorf	1
+19	2616	Fehren	1
+22	4561	Felben-Wellhausen	1
+19	2544	Feldbrunnen-St. Niklaus	1
+11	3731	Felsberg	1
+24	6195	Ferden	1
+7	662	Ferenbalm	1
+8	2194	Ferpicloz	1
+11	3713	Ferrera	1
+1	5483	Ferreyres	0.95
+8	2016	Fétigny	1
+26	27	Feuerthalen	1
+18	1321	Feusisberg	1
+1	5522	Fey	0.85
+11	3861	Fideris	1
+24	6057	Fiesch	1
+24	6058	Fieschertal	1
+1	5556	Fiez	0.81
+11	3522	Filisur	1
+24	6214	Finhaut	1
+7	493	Finsterhennen	1
+13	1129	Fischbach	1
+4	4067	Fischbach-Göslikon	1
+26	114	Fischenthal	1
+22	4726	Fischingen	1
+4	4306	Fisibach	1
+4	4027	Fislisbach	1
+26	28	Flaach	1
+11	3951	Fläsch	1
+20	3402	Flawil	1
+11	3662	Flerden	1
+11	3732	Flims	1
+23	1207	Flüelen	1
+13	1004	Flühli	1
+19	2545	Flumenthal	1
+20	3292	Flums	1
+26	29	Flurlingen	1
+1	5557	Fontaines-sur-Grandson	0.81
+12	6790	Fontenais	1
+1	5604	Forel (Lavaux)	1.03
+7	948	Forst-Längenbühl	1
+1	5717	Founex	1.11
+8	2258	Fräschels	1
+21	5105	Frasco	1
+7	538	Fraubrunnen	1
+22	4566	Frauenfeld	1
+7	663	Frauenkappelen	1
+18	1322	Freienbach	1
+26	57	Freienstein-Teufen	1
+4	4028	Freienwil	1
+7	607	Freimettigen	1
+5	2824	Frenkendorf	1
+14	6409	Fresens	1
+8	2196	Fribourg	1
+4	4163	Frick	1
+1	5523	Froideville	1.03
+7	563	Frutigen	1
+19	2575	Fulenbach	1
+5	2825	Füllinsdorf	1
+4	4307	Full-Reuenthal	1
+24	6133	Fully	1
+11	3862	Furna	1
+11	3633	Fürstenau	1
+17	2901	Gächlingen	1
+22	4571	Gachnang	1
+2	3022	Gais	1
+20	3442	Gaiserwald	1
+18	1342	Galgenen	1
+8	2259	Galmiz	1
+7	494	Gals	1
+21	5398	Gambarogno	1
+24	6118	Gampel-Bratsch	1
+7	495	Gampelen	1
+20	3272	Gams	1
+19	2423	Gänsbrunnen	1
+4	4164	Gansingen	1
+4	4029	Gebenstorf	1
+7	865	Gelterfingen	1
+5	2846	Gelterkinden	1
+4	4232	Geltwil	1
+19	2474	Gempen	1
+8	2260	Gempenach	1
+9	6621	Genève	1
+1	5718	Genolier	1.03
+9	6622	Genthod	1
+19	2519	Gerlafingen	1
+26	244	Geroldswil	1
+18	1311	Gersau	1
+7	866	Gerzensee	1
+13	1130	Gettnau	1
+13	1085	Geuensee	1
+8	2236	Gibloux	1
+5	2826	Giebenach	1
+1	5559	Giez	0.81
+8	2294	Giffers	1
+1	5857	Gilly	1.07
+1	5428	Gimel	0.91
+1	5719	Gingins	1.15
+21	5073	Giornico	1
+4	4165	Gipf-Oberfrick	1
+13	1055	Gisikon	1
+16	1403	Giswil	1
+8	2197	Givisiez	1
+1	5720	Givrins	1.15
+1	5721	Gland	1.15
+10	1632	Glarus	1
+10	1630	Glarus Nord	1
+10	1631	Glarus Süd	1
+26	58	Glattfelden	1
+8	2022	Gletterens	1
+7	664	Golaten	1
+20	3213	Goldach	1
+1	5484	Gollion	0.91
+20	3341	Gommiswald	1
+24	6077	Goms	1
+7	326	Gondiswil	1
+3	3102	Gonten	1
+4	4135	Gontenschwil	1
+21	5108	Gordola	1
+14	6410	Gorgier	1
+23	1208	Göschenen	1
+20	3443	Gossau (SG)	1
+26	115	Gossau (ZH)	1
+22	4651	Gottlieben	1
+1	5541	Goumoëns	0.98
+7	976	Graben	1
+20	3273	Grabs	1
+24	6285	Grächen	1
+21	5186	Grancia	1
+1	5485	Grancy	0.91
+1	5817	Grandcour	0.77
+1	5560	Grandevent	0.81
+12	6792	Grandfontaine	1
+1	5561	Grandson	0.86
+7	694	Grandval	1
+8	2134	Grandvillard	1
+8	2328	Granges (Veveyse)	1
+8	2198	Granges-Paccot	1
+8	2079	Grangettes	1
+4	4006	Gränichen	1
+21	5187	Gravesano	1
+26	194	Greifensee	1
+5	2786	Grellingen	1
+19	2546	Grenchen	1
+8	2261	Greng	1
+24	6177	Grengiols	1
+1	5722	Grens	1.15
+13	1056	Greppen	1
+19	2576	Gretzenbach	1
+24	6263	Grimisuat	1
+19	2617	Grindel	1
+7	576	Grindelwald	1
+8	2200	Grolley	1
+24	6238	Grône	1
+11	3832	Grono	1
+7	303	Grossaffoltern	1
+13	1131	Grossdietwil	1
+7	608	Grosshöchstetten	1
+13	1086	Grosswangen	1
+2	3031	Grub (AR)	1
+26	116	Grüningen	1
+11	3961	Grüsch	1
+8	2135	Gruyères	1
+1	5405	Gryon	0.89
+7	841	Gsteig	1
+7	577	Gsteigwiler	1
+7	852	Guggisberg	1
+7	578	Gündlischwand	1
+19	2547	Günsberg	1
+19	2578	Gunzgen	1
+7	665	Gurbrü	1
+8	2262	Gurmels	1
+23	1209	Gurtnellen	1
+7	867	Gurzelen	1
+7	782	Guttannen	1
+24	6117	Guttet-Feschel	1
+22	4656	Güttingen	1
+9	6624	Gy	1
+7	579	Habkern	1
+4	4099	Habsburg	1
+5	2847	Häfelfingen	1
+26	220	Hagenbuch	1
+19	2579	Hägendorf	1
+20	3201	Häggenschwil	1
+4	4068	Hägglingen	1
+7	736	Hagneck	1
+11	3941	Haldenstein	1
+17	2971	Hallau	1
+4	4197	Hallwil	1
+19	2520	Halten	1
+19	2402	Härkingen	1
+13	1005	Hasle (LU)	1
+7	406	Hasle bei Burgdorf	1
+7	783	Hasliberg	1
+19	2491	Hauenstein-Ifenthal	1
+22	4486	Hauptwil-Gottshaus	1
+4	4100	Hausen (AG)	1
+26	4	Hausen am Albis	1
+12	6809	Haute-Ajoie	1
+8	2233	Hauterive (FR)	1
+14	6454	Hauterive (NE)	1
+12	6729	Haute-Sorne	1
+8	2137	Hauteville	1
+8	2121	Haut-Intyamon	1
+7	609	Häutligen	1
+26	5	Hedingen	1
+22	4416	Hefenhofen	1
+2	3032	Heiden	1
+7	927	Heiligenschwendi	1
+7	928	Heimberg	1
+7	977	Heimenhausen	1
+7	407	Heimiswil	1
+8	2296	Heitenried	1
+4	4251	Hellikon	1
+7	408	Hellsau	1
+20	3372	Hemberg	1
+17	2962	Hemishofen	1
+5	2848	Hemmiken	1
+4	4198	Hendschiken	1
+26	31	Henggart	1
+1	5819	Henniez	0.72
+19	2424	Herbetswil	1
+7	610	Herbligen	1
+22	4811	Herdern	1
+24	6084	Hérémence	1
+15	1507	Hergiswil (NW)	1
+13	1132	Hergiswil bei Willisau	1
+2	3001	Herisau	1
+9	6625	Hermance	1
+1	5673	Hermenches	0.87
+7	737	Hermrigen	1
+26	152	Herrliberg	1
+5	2827	Hersberg	1
+4	4166	Herznach	1
+7	979	Herzogenbuchsee	1
+26	221	Hettlingen	1
+13	1088	Hildisrieden	1
+7	929	Hilterfingen	1
+19	2618	Himmelried	1
+7	409	Hindelbank	1
+11	3691	Hinterrhein	1
+26	117	Hinwil	1
+4	4007	Hirschthal	1
+26	132	Hirzel	1
+26	173	Hittnau	1
+13	1030	Hitzkirch	1
+13	1031	Hochdorf	1
+26	59	Hochfelden	1
+7	410	Höchstetten	1
+19	2475	Hochwald	1
+26	222	Hofstetten (ZH)	1
+7	580	Hofstetten bei Brienz	1
+19	2476	Hofstetten-Flüh	1
+13	1032	Hohenrain	1
+22	4495	Hohentannen	1
+4	4199	Holderbank (AG)	1
+19	2425	Holderbank (SO)	1
+5	2886	Hölstein	1
+4	4136	Holziken	1
+7	931	Homberg	1
+26	153	Hombrechtikon	1
+22	4816	Homburg	1
+13	1057	Honau	1
+26	133	Horgen	1
+26	60	Höri	1
+22	4421	Horn	1
+4	4167	Hornussen	1
+7	932	Horrenbach-Buchen	1
+19	2523	Horriwil	1
+13	1058	Horw	1
+23	1210	Hospental	1
+19	2548	Hubersdorf	1
+26	32	Humlikon	1
+2	3002	Hundwil	1
+25	1703	Hünenberg	1
+19	2524	Hüniken	1
+26	61	Hüntwangen	1
+4	4200	Hunzenschwil	1
+26	134	Hütten	1
+26	87	Hüttikon	1
+22	4590	Hüttlingen	1
+7	954	Huttwil	1
+22	4821	Hüttwilen	1
+24	6239	Icogne	1
+7	541	Iffwil	1
+11	3619	Ilanz/Glion	1
+18	1363	Illgau	1
+26	296	Illnau-Effretikon	1
+24	6109	Inden	1
+18	1364	Ingenbohl	1
+7	980	Inkwil	1
+18	1343	Innerthal	1
+7	784	Innertkirchen	1
+7	496	Ins	1
+7	581	Interlaken	1
+13	1033	Inwil	1
+7	739	Ipsach	1
+7	582	Iseltwald	1
+23	1211	Isenthal	1
+24	6134	Isérables	1
+4	4084	Islisberg	1
+21	5009	Isone	1
+5	2849	Itingen	1
+7	362	Ittigen	1
+7	868	Jaberg	1
+8	2138	Jaun	1
+7	540	Jegenstorf	1
+11	3863	Jenaz	1
+11	3952	Jenins	1
+7	738	Jens	1
+4	4071	Jonen	1
+1	5885	Jongny	1.03
+20	3405	Jonschwil	1
+1	5804	Jorat-Menthue	0.81
+1	5806	Jorat-Mézières	0.92
+1	5585	Jouxtens-Mézery	1.05
+1	5754	Juriens	0.77
+9	6626	Jussy	1
+4	4252	Kaiseraugst	1
+4	4308	Kaiserstuhl	1
+4	4169	Kaisten	1
+4	4233	Kallern	1
+7	304	Kallnach	1
+20	3313	Kaltbrunn	1
+19	2549	Kammersrohr	1
+7	564	Kandergrund	1
+7	565	Kandersteg	1
+5	2850	Känerkinden	1
+19	2580	Kappel (SO)	1
+26	6	Kappel am Albis	1
+7	305	Kappelen	1
+7	869	Kaufdorf	1
+7	870	Kehrsatz	1
+22	4666	Kemmental	1
+7	411	Kernenried	1
+16	1404	Kerns	1
+8	2265	Kerzers	1
+22	4426	Kesswil	1
+19	2403	Kestenholz	1
+19	2492	Kienberg	1
+7	611	Kiesen	1
+5	2851	Kilchberg (BL)	1
+26	135	Kilchberg (ZH)	1
+4	4030	Killwangen	1
+24	6197	Kippel	1
+7	412	Kirchberg (BE)	1
+20	3392	Kirchberg (SG)	1
+7	872	Kirchdorf (BE)	1
+7	873	Kirchenthurnen	1
+4	4275	Kirchleerau	1
+7	354	Kirchlindach	1
+26	33	Kleinandelfingen	1
+8	2266	Kleinbösingen	1
+19	2619	Kleinlützel	1
+4	4309	Klingnau	1
+11	3871	Klosters-Serneus	1
+26	62	Kloten	1
+26	7	Knonau	1
+13	1089	Knutwil	1
+4	4310	Koblenz	1
+4	4276	Kölliken	1
+7	355	Köniz	1
+7	612	Konolfingen	1
+7	413	Koppigen	1
+22	4501	Kradolf-Schönenberg	1
+7	566	Krattigen	1
+7	414	Krauchthal	1
+22	4671	Kreuzlingen	1
+7	666	Kriechenwil	1
+19	2525	Kriegstetten	1
+13	1059	Kriens	1
+11	3882	Küblis	1
+4	4031	Künten	1
+26	154	Küsnacht (ZH)	1
+18	1331	Küssnacht (SZ)	1
+4	4008	Küttigen	1
+12	6810	La Baroche	1
+14	6432	La Brévine	1
+8	2234	La Brillaz	1
+1	5474	La Chaux (Cossonay)	0.91
+14	6421	La Chaux-de-Fonds	1
+12	6744	La Chaux-des-Breuleux	1
+14	6435	La Chaux-du-Milieu	1
+14	6504	La Côte-aux-Fées	1
+7	435	La Ferrière	1
+8	2116	La Folliaz	1
+7	723	La Neuveville	1
+1	5758	La Praz	0.77
+11	3785	La Punt-Chamues-ch	1
+1	5726	La Rippe	1.15
+8	2149	La Roche	1
+14	6423	La Sagne	1
+1	5498	La Sarraz	0.97
+8	2235	La Sonnaz	1
+14	6461	La Tène	1
+1	5889	La Tour-de-Peilz	1.01
+8	2338	La Verrerie	1
+11	3575	Laax	1
+1	5871	L'Abbaye	0.72
+1	5741	L'Abergement	0.78
+18	1344	Lachen	1
+9	6627	Laconnex	1
+12	6750	Lajoux (JU)	1
+24	6286	Lalden	1
+21	5189	Lamone	1
+5	2887	Lampenberg	1
+9	6628	Lancy	1
+7	613	Landiswil	1
+11	3955	Landquart	1
+5	2888	Langenbruck	1
+19	2550	Langendorf	1
+7	329	Langenthal	1
+26	136	Langnau am Albis	1
+7	902	Langnau im Emmental	1
+22	4681	Langrickenbach	1
+11	3513	Lantsch/Lenz	1
+7	842	Lauenen	1
+18	1365	Lauerz	1
+5	2852	Läufelfingen	1
+5	2787	Laufen	1
+4	4170	Laufenburg	1
+26	34	Laufen-Uhwiesen	1
+7	667	Laupen	1
+19	2426	Laupersdorf	1
+7	903	Lauperswil	1
+1	5586	Lausanne	1.02
+5	2828	Lausen	1
+7	584	Lauterbrunnen	1
+5	2889	Lauwil	1
+21	5112	Lavertezzo	1
+1	5406	Lavey-Morcles	0.74
+1	5637	Lavigny	1.07
+21	5323	Lavizzara	1
+24	6061	Lax	1
+12	6741	Le Bémont (JU)	1
+14	6434	Le Cerneux-Péquignot	1
+8	2067	Le Châtelard	1
+1	5872	Le Chenit	0.72
+8	2337	Le Flon	1
+9	6623	Le Grand-Saconnex	1
+14	6455	Le Landeron	1
+1	5873	Le Lieu	0.72
+14	6436	Le Locle	1
+1	5587	Le Mont-sur-Lausanne	1.05
+8	2220	Le Mouret	1
+12	6754	Le Noirmont	1
+8	2145	Le Pâquier (FR)	1
+1	5731	Le Vaud	1.03
+4	4311	Leibstadt	1
+4	4137	Leimbach (AG)	1
+7	585	Leissigen	1
+4	4312	Lengnau (AG)	1
+7	387	Lengnau (BE)	1
+22	4683	Lengwil	1
+7	792	Lenk	1
+24	6240	Lens	1
+4	4201	Lenzburg	1
+12	6742	Les Bois	1
+14	6431	Les Brenets	1
+12	6743	Les Breuleux	1
+1	5750	Les Clées	0.77
+12	6745	Les Enfers	1
+12	6748	Les Genevez (JU)	1
+8	2050	Les Montets	1
+14	6422	Les Planchettes	1
+14	6437	Les Ponts-de-Martel	1
+14	6511	Les Verrières	1
+4	4313	Leuggern	1
+24	6110	Leuk	1
+24	6111	Leukerbad	1
+4	4138	Leutwil	1
+7	388	Leuzigen	1
+1	5407	Leysin	0.8
+24	6135	Leytron	1
+20	3374	Lichtensteig	1
+24	6033	Liddes	1
+5	2890	Liedertswil	1
+5	2788	Liesberg	1
+5	2829	Liestal	1
+7	740	Ligerz	1
+1	5755	Lignerolle	0.78
+14	6456	Lignières	1
+26	176	Lindau	1
+7	614	Linden	1
+21	5315	Linescio	1
+1	5486	L'Isle	0.88
+21	5113	Locarno	1
+11	3707	Lohn (GR)	1
+17	2917	Lohn (SH)	1
+19	2526	Lohn-Ammannsegg	1
+17	2903	Löhningen	1
+7	874	Lohnstorf	1
+22	4741	Lommis	1
+19	2551	Lommiswil	1
+1	5638	Lonay	1.1
+1	5429	Longirod	0.98
+21	5115	Losone	1
+11	3821	Lostallo	1
+19	2493	Lostorf	1
+7	331	Lotzwil	1
+1	5674	Lovatens	0.77
+7	696	Loveresse	1
+1	5675	Lucens	0.77
+26	63	Lufingen	1
+21	5192	Lugano	1
+12	6793	Lugnez	1
+1	5858	Luins	1.07
+8	2025	Lully (FR)	1
+1	5639	Lully (VD)	1.07
+21	5010	Lumino	1
+11	3618	Lumnezia	1
+16	1405	Lungern	1
+4	4104	Lupfig	1
+5	2830	Lupsingen	1
+7	497	Lüscherz	1
+1	5487	Lussery-Villars	0.95
+19	2464	Lüsslingen-Nennigkofen	1
+1	5640	Lussy-sur-Morges	1.07
+19	2527	Luterbach	1
+19	2455	Lüterkofen-Ichertswil	1
+19	2456	Lüterswil-Gächliwil	1
+13	1135	Luthern	1
+20	3393	Lütisburg	1
+1	5606	Lutry	1.09
+7	586	Lütschental	1
+7	955	Lützelflüh	1
+2	3033	Lutzenberg	1
+11	3891	Luzein	1
+13	1061	Luzern	1
+7	306	Lyss	1
+7	415	Lyssach	1
+7	332	Madiswil	1
+11	3783	Madulain	1
+4	4253	Magden	1
+4	4032	Mägenwil	1
+21	5317	Maggia	1
+21	5193	Magliaso	1
+11	3953	Maienfeld	1
+5	2853	Maisprach	1
+11	3926	Maladers	1
+11	3954	Malans	1
+13	1062	Malters	1
+22	4826	Mammern	1
+4	4105	Mandach	1
+26	155	Männedorf	1
+21	5194	Manno	1
+1	5790	Maracon	0.92
+20	3253	Marbach (SG)	1
+1	5430	Marchissy	0.98
+8	2206	Marly	1
+21	5195	Maroggia	1
+8	2140	Marsens	1
+22	4941	Märstetten	1
+26	35	Marthalen	1
+24	6136	Martigny	1
+24	6137	Martigny-Combe	1
+26	8	Maschwanden	1
+11	3663	Masein	1
+21	5196	Massagno	1
+24	6215	Massongex	1
+8	2086	Massonnens	1
+1	5919	Mathod	0.84
+11	3708	Mathon	1
+8	2208	Matran	1
+7	587	Matten bei Interlaken	1
+7	543	Mattstetten	1
+19	2427	Matzendorf	1
+22	4591	Matzingen	1
+1	5562	Mauborget	0.66
+13	1091	Mauensee	1
+26	195	Maur	1
+1	5488	Mauraz	0.88
+11	3983	Medel (Lucmagn)	1
+13	1063	Meggen	1
+7	389	Meienried	1
+13	1064	Meierskappel	1
+7	307	Meikirch	1
+26	156	Meilen	1
+9	6629	Meinier	1
+7	390	Meinisberg	1
+7	785	Meiringen	1
+4	4202	Meisterschwanden	1
+21	5197	Melano	1
+7	333	Melchnau	1
+21	5198	Melide	1
+4	4314	Mellikon	1
+4	4033	Mellingen	1
+20	3293	Mels	1
+19	2620	Meltingen	1
+21	5254	Mendrisio	1
+8	2027	Ménières	1
+4	4139	Menziken	1
+25	1704	Menzingen	1
+13	1136	Menznau	1
+4	4234	Merenschwand	1
+21	5117	Mergoscia	1
+17	2936	Merishausen	1
+12	6715	Mervelier	1
+7	741	Merzligen	1
+11	3822	Mesocco	1
+19	2457	Messen	1
+4	4184	Mettauertal	1
+12	6716	Mettembert	1
+26	9	Mettmenstetten	1
+19	2477	Metzerlen-Mariastein	1
+1	5489	Mex (VD)	0.99
+8	2271	Meyriez	1
+9	6630	Meyrin	1
+8	2087	Mézières (FR)	1
+21	5199	Mezzovico-Vira	1
+24	6241	Miège	1
+1	5723	Mies	1.11
+21	5200	Miglieglia	1
+14	6416	Milvignes	1
+21	5118	Minusio	1
+7	615	Mirchel	1
+8	2272	Misery-Courtion	1
+1	5821	Missy	0.77
+4	4254	Möhlin	1
+1	5490	Moiry	0.95
+1	5431	Mollens (VD)	0.88
+1	5921	Molondin	0.78
+26	196	Mönchaltorf	1
+8	2029	Montagny (FR)	1
+1	5922	Montagny-près-Yverdon	0.84
+14	6411	Montalchez	1
+1	5693	Montanaire	0.77
+1	5756	Montcherand	0.91
+21	5238	Monteceneri	1
+21	5202	Monteggio	1
+8	2089	Montet (Glâne)	1
+12	6751	Montfaucon	1
+4	4106	Mönthal	1
+1	5432	Montherod	0.98
+24	6153	Monthey	1
+1	5540	Montilliez	0.96
+1	5491	Mont-la-Ville	0.88
+24	6090	Mont-Noble	1
+1	5792	Montpreveyres	0.92
+1	5886	Montreux	0.96
+1	5492	Montricher	0.88
+1	5859	Mont-sur-Rolle	1.09
+7	437	Mont-Tramelan	1
+8	2284	Mont-Vully	1
+4	4277	Moosleerau	1
+7	544	Moosseedorf	1
+21	5257	Morbio Inferiore	1
+21	5203	Morcote	1
+24	6203	Mörel-Filet	1
+1	5642	Morges	1.05
+7	742	Mörigen	1
+4	4203	Möriken-Wildegg	1
+8	2143	Morlon	1
+1	5527	Morrens (VD)	1
+18	1366	Morschach	1
+20	3214	Mörschwil	1
+20	3394	Mosnang	1
+7	416	Mötschwil	1
+1	5678	Moudon	0.82
+7	700	Moutier	1
+12	6718	Movelier	1
+4	4009	Muhen	1
+4	4235	Mühlau	1
+7	668	Mühleberg	1
+7	875	Mühledorf (BE)	1
+7	876	Mühlethurnen	1
+22	4831	Müllheim	1
+4	4107	Mülligen	1
+19	2428	Mümliswil-Ramiswil	1
+4	4255	Mumpf	1
+7	546	Münchenbuchsee	1
+5	2769	Münchenstein	1
+7	669	Münchenwiler	1
+4	4172	Münchwilen (AG)	1
+22	4746	Münchwilen (TG)	1
+7	616	Münsingen	1
+22	4691	Münsterlingen	1
+8	2274	Muntelier	1
+7	498	Müntschemier	1
+20	3202	Muolen	1
+18	1367	Muotathal	1
+21	5120	Muralto	1
+4	4279	Murgenthal	1
+4	4236	Muri (AG)	1
+7	356	Muri bei Bern	1
+12	6753	Muriaux	1
+8	2275	Murten	1
+1	5563	Mutrux	0.85
+11	3503	Mutten	1
+5	2770	Muttenz	1
+21	5205	Muzzano	1
+24	6007	Naters	1
+13	1137	Nebikon	1
+20	3378	Neckertal	1
+26	88	Neerach	1
+26	223	Neftenbach	1
+21	5206	Neggio	1
+24	6024	Nendaz	1
+5	2789	Nenzlingen	1
+20	3360	Nesslau	1
+14	6458	Neuchâtel	1
+19	2404	Neuendorf	1
+7	670	Neuenegg	1
+4	4034	Neuenhof	1
+13	1093	Neuenkirch	1
+17	2937	Neuhausen am Rheinfall	1
+25	1705	Neuheim	1
+22	4601	Neunforn	1
+17	2904	Neunkirch	1
+8	2211	Neyruz (FR)	1
+7	743	Nidau	1
+7	981	Niederbipp	1
+19	2405	Niederbuchsiten	1
+20	3422	Niederbüren	1
+5	2891	Niederdorf	1
+24	6198	Niedergesteln	1
+26	89	Niederglatt	1
+19	2495	Niedergösgen	1
+26	90	Niederhasli	1
+20	3423	Niederhelfenschwil	1
+7	617	Niederhünigen	1
+4	4204	Niederlenz	1
+7	877	Niedermuhlern	1
+7	982	Niederönz	1
+7	588	Niederried bei Interlaken	1
+4	4035	Niederrohrdorf	1
+26	91	Niederweningen	1
+4	4072	Niederwil (AG)	1
+7	724	Nods	1
+7	878	Noflen	1
+8	2213	Noréaz	1
+13	1094	Nottwil	1
+21	5207	Novaggio	1
+1	5564	Novalles	0.81
+21	5260	Novazzano	1
+1	5408	Noville	0.85
+11	3693	Nufenen	1
+19	2478	Nuglar-St. Pantaleon	1
+19	2621	Nunningen	1
+26	64	Nürensdorf	1
+5	2854	Nusshof	1
+8	2035	Nuvilly	1
+1	5724	Nyon	1.1
+25	1706	Oberägeri	1
+7	357	Oberbalm	1
+7	983	Oberbipp	1
+19	2406	Oberbuchsiten	1
+20	3424	Oberbüren	1
+7	418	Oberburg	1
+7	619	Oberdiessbach	1
+5	2892	Oberdorf (BL)	1
+15	1508	Oberdorf (NW)	1
+19	2553	Oberdorf (SO)	1
+3	3111	Oberegg	1
+26	65	Oberembrach	1
+24	6112	Oberems	1
+26	245	Oberengstringen	1
+4	4010	Oberentfelden	1
+19	2528	Obergerlafingen	1
+26	92	Oberglatt	1
+24	6076	Obergoms	1
+19	2497	Obergösgen	1
+17	2972	Oberhallau	1
+20	3375	Oberhelfenschwil	1
+4	4173	Oberhof	1
+7	934	Oberhofen am Thunersee	1
+7	629	Oberhünigen	1
+18	1368	Oberiberg	1
+13	1095	Oberkirch	1
+4	4140	Oberkulm	1
+7	935	Oberlangenegg	1
+4	4073	Oberlunkhofen	1
+4	4256	Obermumpf	1
+7	589	Oberried am Brienzersee	1
+26	137	Oberrieden	1
+20	3254	Oberriet (SG)	1
+4	4037	Oberrohrdorf	1
+4	4237	Oberrüti	1
+11	3988	Obersaxen Mundaun	1
+4	4038	Obersiggenthal	1
+26	36	Oberstammheim	1
+7	334	Obersteckholz	1
+7	620	Oberthal	1
+20	3407	Oberuzwil	1
+26	93	Oberweningen	1
+5	2771	Oberwil (BL)	1
+7	391	Oberwil bei Büren	1
+7	766	Oberwil im Simmental	1
+4	4074	Oberwil-Lieli	1
+26	10	Obfelden	1
+7	985	Ochlenberg	1
+19	2529	Oekingen	1
+19	2407	Oensingen	1
+7	335	Oeschenbach	1
+4	4175	Oeschgen	1
+26	157	Oetwil am See	1
+26	246	Oetwil an der Limmat	1
+4	4280	Oftringen	1
+1	5680	Ogens	0.8
+1	5409	Ollon	0.86
+4	4257	Olsberg	1
+19	2581	Olten	1
+5	2855	Oltingen	1
+9	6631	Onex	1
+1	5565	Onnens (VD)	0.85
+21	5136	Onsernone	1
+26	66	Opfikon	1
+1	5923	Oppens	0.79
+7	622	Oppligen	1
+1	5757	Orbe	0.86
+1	5924	Orges	0.84
+21	5208	Origlio	1
+5	2856	Ormalingen	1
+1	5410	Ormont-Dessous	0.77
+1	5411	Ormont-Dessus	0.77
+1	5493	Orny	0.95
+1	5805	Oron	0.88
+7	744	Orpund	1
+21	5121	Orselina	1
+24	6034	Orsières	1
+7	438	Orvin	1
+1	5925	Orzens	0.79
+26	37	Ossingen	1
+7	363	Ostermundigen	1
+26	94	Otelfingen	1
+4	4205	Othmarsingen	1
+26	11	Ottenbach	1
+1	5529	Oulens-sous-Echallens	0.98
+1	5530	Pailly	0.85
+1	5494	Pampigny	0.88
+21	5210	Paradiso	1
+1	5588	Paudex	1.08
+1	5822	Payerne	0.78
+1	5495	Penthalaz	0.95
+1	5496	Penthaz	1.02
+1	5531	Penthéréaz	0.85
+9	6632	Perly-Certoux	1
+7	701	Perrefitte	1
+1	5860	Perroy	1.09
+21	5076	Personico	1
+7	450	Péry-La Heutte	1
+14	6412	Peseux	1
+7	716	Petit-Val	1
+20	3294	Pfäfers	1
+26	177	Pfäffikon	1
+13	1139	Pfaffnau	1
+5	2772	Pfeffingen	1
+26	224	Pfungen	1
+22	4841	Pfyn	1
+8	2216	Pierrafortscha	1
+7	392	Pieterlen	1
+8	2299	Plaffeien	1
+9	6633	Plan-les-Ouates	1
+8	2300	Plasselb	1
+7	726	Plateau de Diesse	1
+12	6719	Pleigne	1
+7	936	Pohlern	1
+1	5533	Poliez-Pittet	1
+21	5077	Pollegio	1
+1	5497	Pompaples	0.95
+1	5926	Pomy	0.79
+21	5212	Ponte Capriasca	1
+21	5213	Ponte Tresa	1
+8	2122	Pont-en-Ogoz	1
+8	2217	Ponthaux	1
+8	2147	Pont-la-Ville	1
+11	3784	Pontresina	1
+12	6800	Porrentruy	1
+7	745	Port	1
+24	6154	Port-Valais	1
+21	5214	Porza	1
+11	3561	Poschiavo	1
+1	5725	Prangins	1.1
+21	5078	Prato (Leventina)	1
+5	2831	Pratteln	1
+9	6634	Pregny-Chambésy	1
+1	5759	Premier	0.77
+9	6635	Presinge	1
+1	5643	Préverenges	1.1
+8	2038	Prévondavaux	1
+1	5683	Prévonloup	0.77
+8	2221	Prez-vers-Noréaz	1
+1	5589	Prilly	1.04
+1	5566	Provence	0.85
+1	5607	Puidoux	0.97
+1	5590	Pully	1.1
+9	6636	Puplinge	1
+21	5216	Pura	1
+20	3295	Quarten	1
+21	5079	Quinto	1
+7	309	Radelfingen	1
+26	67	Rafz	1
+13	1037	Rain	1
+5	2832	Ramlinsburg	1
+17	2963	Ramsen	1
+1	5760	Rances	0.78
+24	6287	Randa	1
+22	4846	Raperswilen	1
+7	310	Rapperswil (BE)	1
+20	3340	Rapperswil-Jona	1
+24	6199	Raron	1
+23	1212	Realp	1
+12	6720	Rebeuvelier	1
+7	715	Rebévelier	1
+20	3255	Rebstein	1
+19	2530	Recherswil	1
+8	2301	Rechthalten	1
+7	703	Reconvilier	1
+26	95	Regensberg	1
+26	96	Regensdorf	1
+2	3034	Rehetobel	1
+7	567	Reichenbach im Kandertal	1
+18	1345	Reichenburg	1
+13	1140	Reiden	1
+5	2893	Reigoldswil	1
+4	4141	Reinach (AG)	1
+5	2773	Reinach (BL)	1
+7	336	Reisiswil	1
+4	4281	Reitnau	1
+4	4315	Rekingen (AG)	1
+8	2333	Remaufens	1
+4	4039	Remetschwil	1
+4	4110	Remigen	1
+7	441	Renan (BE)	1
+1	5591	Renens (VD)	1.04
+1	5412	Rennaz	0.85
+2	3035	Reute (AR)	1
+7	767	Reutigen	1
+1	5644	Reverolle	0.99
+11	3723	Rhäzüns	1
+26	38	Rheinau	1
+20	3235	Rheineck	1
+4	4258	Rheinfelden	1
+8	2148	Riaz	1
+26	138	Richterswil	1
+5	2857	Rickenbach (BL)	1
+13	1097	Rickenbach (LU)	1
+19	2582	Rickenbach (SO)	1
+22	4751	Rickenbach (TG)	1
+26	225	Rickenbach (ZH)	1
+24	6139	Riddes	1
+8	2276	Ried bei Kerzers	1
+24	6008	Ried-Brig	1
+24	6181	Riederalp	1
+19	2554	Riedholz	1
+6	2703	Riehen	1
+18	1369	Riemenstalden	1
+4	4316	Rietheim	1
+26	12	Rifferswil	1
+7	879	Riggisberg	1
+7	590	Ringgenberg (BE)	1
+4	4111	Riniken	1
+25	1707	Risch	1
+21	5263	Riva San Vitale	1
+1	5609	Rivaz	1.03
+21	5287	Riviera	1
+1	5413	Roche (VD)	0.85
+14	6413	Rochefort	1
+7	704	Roches (BE)	1
+12	6803	Rocourt	1
+19	2479	Rodersdorf	1
+5	2790	Roggenburg	1
+13	1142	Roggliswil	1
+7	337	Roggwil (BE)	1
+22	4431	Roggwil (TG)	1
+19	2498	Rohr (SO)	1
+7	338	Rohrbach	1
+7	339	Rohrbachgraben	1
+1	5861	Rolle	1.03
+1	5761	Romainmôtier-Envy	0.77
+1	5592	Romanel-sur-Lausanne	1.05
+1	5645	Romanel-sur-Morges	0.99
+22	4436	Romanshorn	1
+13	1039	Römerswil	1
+7	442	Romont (BE)	1
+8	2096	Romont (FR)	1
+13	1007	Romoos	1
+21	5125	Ronco sopra Ascona	1
+11	3711	Rongellen	1
+13	1065	Root	1
+1	5798	Ropraz	0.92
+26	68	Rorbas	1
+20	3215	Rorschach	1
+20	3216	Rorschacherberg	1
+5	2791	Röschenz	1
+11	3808	Rossa	1
+12	6721	Rossemaison	1
+1	5684	Rossenges	0.87
+1	5842	Rossinière	0.74
+7	904	Röthenbach im Emmental	1
+11	3637	Rothenbrunnen	1
+13	1040	Rothenburg	1
+5	2858	Rothenfluh	1
+18	1370	Rothenthurm	1
+4	4282	Rothrist	1
+4	4238	Rottenschwil	1
+1	5843	Rougemont	0.74
+11	3834	Roveredo (GR)	1
+21	5219	Rovio	1
+1	5928	Rovray	0.78
+7	623	Rubigen	1
+7	905	Rüderswil	1
+17	2938	Rüdlingen	1
+4	4075	Rudolfstetten-Friedlisberg	1
+7	420	Rüdtligen-Alchenflüh	1
+8	2097	Rue	1
+7	880	Rüeggisberg	1
+7	956	Rüegsau	1
+1	5534	Rueyres	0.85
+4	4112	Rüfenach	1
+7	421	Rumendingen	1
+4	4317	Rümikon	1
+7	987	Rumisberg	1
+26	97	Rümlang	1
+7	881	Rümligen	1
+5	2859	Rümlingen	1
+5	2860	Rünenberg	1
+4	4206	Rupperswil	1
+7	853	Rüschegg	1
+26	139	Rüschlikon	1
+26	178	Russikon	1
+9	6637	Russin	1
+13	1098	Ruswil	1
+3	3103	Rüte	1
+20	3256	Rüthi (SG)	1
+26	118	Rüti (ZH)	1
+7	393	Rüti bei Büren	1
+7	422	Rüti bei Lyssach	1
+7	340	Rütschelen	1
+19	2555	Rüttenen	1
+7	843	Saanen	1
+24	6288	Saas-Almagell	1
+24	6289	Saas-Balen	1
+24	6290	Saas-Fee	1
+24	6291	Saas-Grund	1
+16	1406	Sachseln	1
+4	4283	Safenwil	1
+11	3672	Safiental	1
+7	746	Safnern	1
+11	3581	Sagogn	1
+7	706	Saicourt	1
+12	6757	Saignelégier	1
+24	6140	Saillon	1
+8	2041	Saint-Aubin (FR)	1
+14	6414	Saint-Aubin-Sauges	1
+1	5535	Saint-Barthélemy (VD)	0.98
+14	6459	Saint-Blaise	1
+12	6758	Saint-Brais	1
+1	5727	Saint-Cergue	0.99
+1	5568	Sainte-Croix	0.66
+1	5434	Saint-George	0.98
+24	6155	Saint-Gingolph	1
+7	443	Saint-Imier	1
+1	5888	Saint-Légier-La Chiésaz	1.01
+24	6246	Saint-Léonard	1
+1	5435	Saint-Livres	1.01
+8	2335	Saint-Martin (FR)	1
+24	6087	Saint-Martin (VS)	1
+24	6217	Saint-Maurice	1
+1	5436	Saint-Oyens	0.98
+1	5646	Saint-Prex	1.17
+1	5610	Saint-Saphorin (Lavaux)	1.03
+1	5648	Saint-Sulpice (VD)	1.1
+22	4851	Salenstein	1
+8	2152	Sâles	1
+24	6113	Salgesch	1
+22	4441	Salmsach	1
+24	6218	Salvan	1
+11	3786	Samedan	1
+11	3752	Samnaun	1
+11	3835	San Vittore	1
+11	3810	Santa Maria in Calanca	1
+21	5017	Sant'Antonino	1
+20	3296	Sargans	1
+4	4076	Sarmenstorf	1
+16	1407	Sarnen	1
+9	6638	Satigny	1
+18	1371	Sattel	1
+1	5437	Saubraz	0.98
+7	449	Sauge	1
+12	6722	Saulcy	1
+7	707	Saules (BE)	1
+24	6265	Savièse	1
+1	5611	Savigny	1.03
+21	5221	Savosa	1
+7	591	Saxeten	1
+24	6141	Saxon	1
+17	2939	Schaffhausen	1
+4	4207	Schafisheim	1
+11	3788	S-chanf	1
+7	906	Schangnau	1
+20	3315	Schänis	1
+11	3638	Scharans	1
+23	1213	Schattdorf	1
+7	786	Schattenhalb	1
+7	708	Schelten	1
+13	1099	Schenkon	1
+4	4113	Scherz	1
+7	747	Scheuren	1
+11	3962	Schiers	1
+4	4125	Schinznach	1
+4	4114	Schinznach-Bad	1
+22	4546	Schlatt (TG)	1
+26	226	Schlatt (ZH)	1
+3	3104	Schlatt-Haslen	1
+26	98	Schleinikon	1
+17	2952	Schleitheim	1
+13	1100	Schlierbach	1
+26	247	Schlieren	1
+4	4142	Schlossrued	1
+7	624	Schlosswil	1
+11	3582	Schluein	1
+20	3338	Schmerikon	1
+4	4143	Schmiedrued	1
+8	2305	Schmitten (FR)	1
+11	3514	Schmitten (GR)	1
+4	4318	Schneisingen	1
+19	2461	Schnottwil	1
+26	99	Schöfflisdorf	1
+4	4144	Schöftland	1
+26	140	Schönenberg (ZH)	1
+5	2774	Schönenbuch	1
+2	3003	Schönengrund	1
+19	2583	Schönenwerd	1
+13	1041	Schongau	1
+22	4756	Schönholzerswilen	1
+13	1143	Schötz	1
+18	1346	Schübelbach	1
+4	4259	Schupfart	1
+7	311	Schüpfen	1
+13	1008	Schüpfheim	1
+4	4176	Schwaderloch	1
+7	748	Schwadernau	1
+7	592	Schwanden bei Brienz	1
+13	1066	Schwarzenberg	1
+7	855	Schwarzenburg	1
+7	341	Schwarzhäusern	1
+2	3004	Schwellbrunn	1
+3	3105	Schwende	1
+7	937	Schwendibach	1
+26	197	Schwerzenbach	1
+18	1372	Schwyz	1
+11	3762	Scuol	1
+7	988	Seeberg	1
+7	312	Seedorf (BE)	1
+23	1214	Seedorf (UR)	1
+26	119	Seegräben	1
+7	709	Seehof	1
+23	1215	Seelisberg	1
+4	4208	Seengen	1
+19	2480	Seewen	1
+11	3972	Seewis im Prättigau	1
+7	883	Seftigen	1
+5	2833	Seltisberg	1
+19	2556	Selzach	1
+24	6035	Sembrancher	1
+13	1102	Sempach	1
+8	2336	Semsales	1
+1	5499	Senarclens	0.91
+8	2225	Senèdes	1
+20	3274	Sennwald	1
+4	4209	Seon	1
+1	5762	Sergey	0.78
+21	5050	Serravalle	1
+1	5799	Servion	0.92
+21	5222	Sessa	1
+26	227	Seuzach	1
+8	2043	Sévaz	1
+20	3275	Sevelen	1
+1	5500	Sévery	0.91
+17	2953	Siblingen	1
+24	6248	Sierre	1
+4	4319	Siglistorf	1
+7	907	Signau	1
+1	5728	Signy-Avenex	1.15
+7	938	Sigriswil	1
+23	1216	Silenen	1
+11	3640	Sils im Domleschg	1
+11	3789	Sils im Engadin/Segl	1
+11	3790	Silvaplana	1
+24	6009	Simplon	1
+4	4239	Sins	1
+24	6266	Sion	1
+22	4761	Sirnach	1
+7	499	Siselen	1
+23	1217	Sisikon	1
+5	2861	Sissach	1
+4	4177	Sisseln	1
+8	2099	Siviriez	1
+11	3823	Soazza	1
+19	2601	Solothurn	1
+22	4446	Sommeri	1
+7	444	Sonceboz-Sombeval	1
+21	5129	Sonogno	1
+7	445	Sonvilier	1
+9	6639	Soral	1
+21	5225	Sorengo	1
+8	2153	Sorens	1
+7	711	Sorvilier	1
+12	6759	Soubey	1
+12	6724	Soyhières	1
+2	3023	Speicher	1
+7	768	Spiez	1
+23	1218	Spiringen	1
+11	3694	Splügen	1
+4	4040	Spreitenbach	1
+8	2302	St. Antoni	1
+20	3203	St. Gallen	1
+20	3236	St. Margrethen	1
+11	3787	St. Moritz	1
+24	6292	St. Niklaus	1
+8	2303	St. Silvester	1
+7	793	St. Stephan	1
+8	2304	St. Ursen	1
+21	5266	Stabio	1
+26	100	Stadel	1
+26	158	Stäfa	1
+4	4284	Staffelbach	1
+24	6293	Stalden (VS)	1
+24	6294	Staldenried	1
+26	13	Stallikon	1
+15	1509	Stans	1
+15	1510	Stansstad	1
+19	2584	Starrkirch-Wil	1
+4	4210	Staufen	1
+22	4864	Steckborn	1
+7	939	Steffisburg	1
+24	6204	Steg-Hohtenn	1
+4	4260	Stein (AG)	1
+2	3005	Stein (AR)	1
+17	2964	Stein am Rhein	1
+20	3217	Steinach	1
+18	1373	Steinen	1
+18	1374	Steinerberg	1
+25	1708	Steinhausen	1
+26	101	Steinmaur	1
+4	4041	Stetten (AG)	1
+17	2919	Stetten (SH)	1
+22	4606	Stettfurt	1
+7	358	Stettlen	1
+7	770	Stocken-Höfen	1
+4	4285	Strengelbach	1
+7	749	Studen (BE)	1
+19	2499	Stüsslingen	1
+19	2532	Subingen	1
+1	5929	Suchy	0.79
+11	3695	Sufers	1
+4	4012	Suhr	1
+22	4506	Sulgen	1
+1	5501	Sullens	0.99
+7	957	Sumiswald	1
+11	3985	Sumvitg	1
+8	2044	Surpierre	1
+13	1103	Sursee	1
+11	3543	Surses	1
+1	5930	Suscévaz	0.84
+7	750	Sutz-Lattrigen	1
+1	5688	Syens	0.87
+8	2306	Tafers	1
+4	4077	Tägerig	1
+22	4696	Tägerwilen	1
+11	3733	Tamins	1
+1	5729	Tannay	1.11
+1	5862	Tartegnin	1.07
+24	6295	Täsch	1
+7	751	Täuffelen	1
+7	713	Tavannes	1
+5	2862	Tecknau	1
+4	4320	Tegerfelden	1
+21	5131	Tenero-Contra	1
+5	2863	Tenniken	1
+8	2307	Tentlingen	1
+24	6010	Termen	1
+21	5396	Terre di Pedemonte	1
+2	3024	Teufen (AR)	1
+4	4145	Teufenthal (AG)	1
+7	940	Teuffenthal (BE)	1
+1	5571	Tévenon	0.88
+20	3237	Thal	1
+4	4117	Thalheim (AG)	1
+26	39	Thalheim an der Thur	1
+26	141	Thalwil	1
+17	2920	Thayngen	1
+5	2775	Therwil	1
+7	941	Thierachern	1
+9	6640	Thônex	1
+7	989	Thörigen	1
+7	942	Thun	1
+22	4611	Thundorf	1
+7	342	Thunstetten	1
+5	2864	Thürnen	1
+11	3668	Thusis	1
+5	2894	Titterten	1
+22	4776	Tobel-Tägerschen	1
+7	884	Toffen	1
+1	5649	Tolochenaz	1.05
+24	6296	Törbel	1
+8	2115	Torny	1
+21	5227	Torricella-Taverne	1
+7	958	Trachselwald	1
+7	446	Tramelan	1
+17	2973	Trasadingen	1
+7	500	Treiten	1
+1	5730	Trélex	1.15
+1	5827	Trey	0.78
+1	5931	Treycovagnes	0.84
+1	5828	Treytorrens (Payerne)	0.72
+8	2226	Treyvaux	1
+13	1104	Triengen	1
+24	6142	Trient	1
+19	2500	Trimbach	1
+11	3945	Trimmis	1
+11	3734	Trin	1
+2	3025	Trogen	1
+9	6641	Troinex	1
+24	6156	Troistorrents	1
+7	908	Trub	1
+7	909	Trubschachen	1
+26	40	Trüllikon	1
+11	3987	Trun	1
+26	41	Truttikon	1
+11	3669	Tschappina	1
+11	3932	Tschiertschen-Praden	1
+7	501	Tschugg	1
+20	3218	Tübach	1
+18	1347	Tuggen	1
+11	3986	Tujetsch	1
+26	228	Turbenthal	1
+4	4042	Turgi	1
+24	6119	Turtmann-Unterems	1
+7	756	Twann-Tüscherz	1
+13	1067	Udligenswil	1
+8	2308	Ueberstorf	1
+7	943	Uebeschi	1
+4	4179	Ueken	1
+4	4286	Uerkheim	1
+22	4616	Uesslingen-Buch	1
+7	944	Uetendorf	1
+26	159	Uetikon am See	1
+4	4078	Uezwil	1
+13	1145	Ufhusen	1
+26	248	Uitikon	1
+8	2278	Ulmiz	1
+25	1709	Unterägeri	1
+24	6201	Unterbäch	1
+20	3219	Untereggen	1
+26	249	Unterengstringen	1
+4	4013	Unterentfelden	1
+18	1375	Unteriberg	1
+4	4146	Unterkulm	1
+7	945	Unterlangenegg	1
+4	4079	Unterlunkhofen	1
+19	2463	Unterramsern	1
+23	1219	Unterschächen	1
+7	593	Unterseen	1
+4	4044	Untersiggenthal	1
+26	42	Unterstammheim	1
+11	3946	Untervaz	1
+26	250	Urdorf	1
+11	3670	Urmein	1
+2	3006	Urnäsch	1
+7	344	Ursenbach	1
+1	5932	Ursins	0.79
+8	2102	Ursy	1
+7	551	Urtenen-Schönbühl	1
+26	198	Uster	1
+7	885	Uttigen	1
+22	4451	Uttwil	1
+7	552	Utzenstorf	1
+20	3339	Uznach	1
+20	3408	Uzwil	1
+21	5268	Vacallo	1
+11	3847	Val Müstair	1
+12	6730	Val Terbi	1
+14	6485	Valangin	1
+7	717	Valbirse	1
+1	5831	Valbroye	0.72
+8	2163	Val-de-Charmey	1
+14	6487	Val-de-Ruz	1
+14	6512	Val-de-Travers	1
+24	6157	Val-d'Illiez	1
+1	5933	Valeyres-sous-Montagny	0.84
+1	5763	Valeyres-sous-Rances	0.78
+1	5934	Valeyres-sous-Ursins	0.79
+8	2045	Vallon	1
+1	5764	Vallorbe	0.73
+11	3603	Vals	1
+11	3764	Valsot	1
+9	6642	Vandoeuvres	1
+24	6116	Varen	1
+1	5765	Vaulion	0.67
+8	2155	Vaulruz	1
+14	6415	Vaumarcus	1
+1	5650	Vaux-sur-Morges	0.99
+11	3506	Vaz/Obervaz	1
+7	359	Vechigen	1
+12	6728	Vellerat	1
+4	4120	Veltheim (AG)	1
+12	6806	Vendlincourt	1
+24	6249	Venthône	1
+21	5230	Vernate	1
+24	6219	Vernayaz	1
+9	6643	Vernier	1
+24	6220	Vérossaz	1
+9	6644	Versoix	1
+24	6025	Vétroz	1
+1	5890	Vevey	0.99
+24	6089	Vex	1
+24	6250	Veyras	1
+9	6645	Veyrier	1
+24	6267	Veysonnaz	1
+1	5891	Veytaux	0.96
+21	5231	Vezia	1
+1	5732	Vich	1.03
+21	5233	Vico Morcote	1
+8	2230	Villarsel-sur-Marly	1
+1	5935	Villars-Epeney	0.78
+1	5690	Villars-le-Comte	0.77
+1	5537	Villars-le-Terroir	0.98
+1	5651	Villars-Sainte-Croix	1.1
+1	5652	Villars-sous-Yens	1.07
+8	2228	Villars-sur-Glâne	1
+1	5830	Villarzel	0.72
+8	2111	Villaz-Saint-Pierre	1
+1	5414	Villeneuve (VD)	0.94
+7	448	Villeret	1
+4	4121	Villigen	1
+4	4080	Villmergen	1
+4	4122	Villnachern	1
+8	2114	Villorsonnens	1
+20	3297	Vilters-Wangs	1
+7	502	Vinelz	1
+1	5863	Vinzel	1.07
+24	6158	Vionnaz	1
+24	6297	Visp	1
+24	6298	Visperterminen	1
+13	1068	Vitznau	1
+21	5135	Vogorno	1
+26	43	Volken	1
+26	199	Volketswil	1
+24	6036	Vollèges	1
+4	4287	Vordemwald	1
+18	1348	Vorderthal	1
+24	6159	Vouvry	1
+8	2160	Vuadens	1
+1	5539	Vuarrens	0.85
+1	5692	Vucherens	0.87
+1	5503	Vufflens-la-Ville	1.02
+1	5653	Vufflens-le-Château	0.99
+1	5937	Vugelles-La Mothe	0.84
+8	2113	Vuisternens-devant-Romont	1
+1	5766	Vuiteboeuf	0.78
+1	5803	Vulliens	0.92
+1	5654	Vullierens	0.99
+1	5464	Vully-les-Lacs	0.8
+7	946	Wachseldorn	1
+26	142	Wädenswil	1
+22	4871	Wagenhausen	1
+5	2792	Wahlen	1
+25	1710	Walchwil	1
+2	3036	Wald (AR)	1
+7	888	Wald (BE)	1
+26	120	Wald (ZH)	1
+5	2895	Waldenburg	1
+22	4701	Wäldi	1
+20	3444	Waldkirch	1
+2	3007	Waldstatt	1
+20	3298	Walenstadt	1
+7	626	Walkringen	1
+4	4261	Wallbach	1
+26	69	Wallisellen	1
+7	990	Walliswil bei Niederbipp	1
+7	991	Walliswil bei Wangen	1
+7	754	Walperswil	1
+26	44	Waltalingen	1
+11	3616	Waltensburg/Vuorz	1
+4	4240	Waltenschwil	1
+7	959	Walterswil (BE)	1
+19	2585	Walterswil (SO)	1
+2	3037	Walzenhausen	1
+18	1349	Wangen (SZ)	1
+7	992	Wangen an der Aare	1
+19	2586	Wangen bei Olten	1
+26	200	Wangen-Brüttisellen	1
+7	993	Wangenried	1
+22	4781	Wängi	1
+20	3276	Wartau	1
+22	4621	Warth-Weiningen	1
+23	1220	Wassen	1
+26	70	Wasterkingen	1
+7	886	Wattenwil	1
+20	3379	Wattwil	1
+13	1146	Wauwil	1
+20	3316	Weesen	1
+4	4262	Wegenstetten	1
+13	1069	Weggis	1
+26	102	Weiach	1
+22	4946	Weinfelden	1
+26	251	Weiningen (ZH)	1
+26	180	Weisslingen	1
+19	2429	Welschenrohr	1
+7	394	Wengi	1
+5	2865	Wenslingen	1
+13	1009	Werthenstein	1
+4	4045	Wettingen	1
+26	14	Wettswil am Albis	1
+26	121	Wetzikon (ZH)	1
+7	632	Wichtrach	1
+4	4081	Widen	1
+20	3238	Widnau	1
+7	995	Wiedlisbach	1
+26	298	Wiesendangen	1
+7	553	Wiggiswil	1
+22	4951	Wigoltingen	1
+13	1147	Wikon	1
+20	3427	Wil (SG)	1
+26	71	Wil (ZH)	1
+26	181	Wila	1
+17	2974	Wilchingen	1
+26	182	Wildberg	1
+7	594	Wilderswil	1
+20	3359	Wildhaus-Alt St. Johann	1
+22	4786	Wilen (TG)	1
+24	6202	Wiler (Lötschen)	1
+7	554	Wiler bei Utzenstorf	1
+7	671	Wileroltigen	1
+4	4288	Wiliberg	1
+7	423	Willadingen	1
+13	1151	Willisau	1
+7	769	Wimmis	1
+4	4123	Windisch	1
+26	72	Winkel	1
+5	2866	Wintersingen	1
+26	230	Winterthur	1
+19	2501	Winznau	1
+19	2502	Wisen (SO)	1
+4	4322	Wislikofen	1
+20	3204	Wittenbach	1
+19	2481	Witterswil	1
+5	2867	Wittinsburg	1
+4	4181	Wittnau	1
+4	4082	Wohlen (AG)	1
+7	360	Wohlen bei Bern	1
+4	4046	Wohlenschwil	1
+15	1511	Wolfenschiessen	1
+2	3038	Wolfhalden	1
+7	996	Wolfisberg	1
+4	4182	Wölflinswil	1
+19	2408	Wolfwil	1
+13	1107	Wolhusen	1
+18	1323	Wollerau	1
+7	627	Worb	1
+7	755	Worben	1
+8	2309	Wünnewil-Flamatt	1
+22	4791	Wuppenau	1
+4	4047	Würenlingen	1
+4	4048	Würenlos	1
+7	345	Wynau	1
+7	424	Wynigen	1
+7	960	Wyssachen	1
+1	5655	Yens	1.07
+1	5938	Yverdon-les-Bains	0.89
+1	5939	Yvonand	0.83
+1	5415	Yvorne	0.85
+7	628	Zäziwil	1
+5	2868	Zeglingen	1
+4	4183	Zeihen	1
+4	4263	Zeiningen	1
+13	1150	Zell (LU)	1
+26	231	Zell (ZH)	1
+24	6299	Zeneggen	1
+24	6300	Zermatt	1
+11	3746	Zernez	1
+4	4147	Zetzwil	1
+5	2834	Ziefen	1
+7	556	Zielebach	1
+22	4511	Zihlschlacht-Sitterdorf	1
+11	3712	Zillis-Reischen	1
+11	3947	Zizers	1
+4	4289	Zofingen	1
+7	361	Zollikofen	1
+26	161	Zollikon	1
+19	2534	Zuchwil	1
+4	4083	Zufikon	1
+25	1711	Zug	1
+19	2622	Zullwil	1
+26	160	Zumikon	1
+5	2869	Zunzgen	1
+11	3791	Zuoz	1
+26	261	Zürich	1
+4	4264	Zuzgen	1
+7	557	Zuzwil (BE)	1
+20	3426	Zuzwil (SG)	1
+7	794	Zweisimmen	1
+7	947	Zwieselberg	1
+5	2793	Zwingen	1
+24	6011	Zwischbergen	1

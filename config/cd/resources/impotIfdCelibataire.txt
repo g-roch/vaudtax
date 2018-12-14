@@ -1,0 +1,19 @@
+# Ranges for IFD (single)	
+# Syntax: [Range upper value (exclusive)] [Rate]	
+# - The rate of the first range is always 0 (ignored).	
+# - The value of the first range is the minimal taxable income.	
+# - All income greater than the final range will be taxed according to a flat	
+#   rate.	
+# DO NOT FORGET TO ADAPT THE CORRESPONDING JAVA CLASS TOO:	
+# ch.dvbern.tax.vd.engine.calcitems.CFDetermineImpotIfd	
+17800	0
+31700	0.77
+41500	0.88
+55300	2.64
+72600	2.97
+78200	5.94
+103700	6.6
+134700	8.8
+176100	11
+755300	13.2
+895900	11.5

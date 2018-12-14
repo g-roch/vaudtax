@@ -1,0 +1,26 @@
+1	Vaud	VD
+2	Appenzell Rh. extérieures	AR
+3	Appenzell Rh. intérieures	AI
+4	Argovie	AG
+5	Bâle-campagne	BL
+6	Bâle-ville	BS
+7	Berne	BE
+8	Fribourg	FR
+9	Genève	GE
+10	Glaris	GL
+11	Grisons	GR
+12	Jura	JU
+13	Lucerne	LU
+14	Neuchâtel	NE
+15	Nidwald	NW
+16	Obwald	OW
+17	Schaffhouse	SH
+18	Schwyz	SZ
+19	Soleure	SO
+20	St-Gall	SG
+21	Tessin	TI
+22	Thurgovie	TG
+23	Uri	UR
+24	Valais	VS
+25	Zug	ZG
+26	Zurich	ZH

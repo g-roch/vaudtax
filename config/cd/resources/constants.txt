@@ -1,0 +1,3 @@
+indexationValeurLocative	118
+titre.loterie.rendementImposable.percent	5
+titre.loterie.rendementImposable.max	5000

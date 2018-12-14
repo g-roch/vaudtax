@@ -1,0 +1,48 @@
+1	(CHF) Franc suisse	1	CHF
+2	(DM) Mark allemand	100	DM
+3	(USD) Dollar américain	1	USD
+4	(EUR) Euro	1	EUR
+5	(GBP) Livre anglaise	1	GBP
+6	(FRF) Franc français	100	FRF
+7	(ITL) Lire italienne	100	ITL
+8	(AUD) Dollar australien	1	AUD
+9	(BEF) Franc belge	100	BEF
+10	(DKK) Couronne danoise	100	DKK
+11	(FIM) Mark finlandais	100	FIM
+12	(GRD) Drachme grec	100	GRD
+13	(NLG) Florin hollandais	100	NLG
+14	(HKD) Dollar de Honk-Kong	1	HKD
+15	(INR) Roupie hindoue	100	INR
+16	(IEP) Livre irlandaise	1	IEP
+17	(ISK) Couronne islandaise	100	ISK
+18	(ILS) Shekel israélien	100	ILS
+19	(JPY) Yen japonais	100	JPY
+20	(YUN) Dinar yougoslave	100	YUN
+21	(CAD) Dollar canadien	1	CAD
+22	(KRW) Won coréen	100	KRW
+23	(KWD) Dinar du Kuwait	100	KWD
+24	(LVL) Lat letton	100	LVL
+25	(LTL) Litas lituanien	100	LTL
+26	(LUF) Franc du Luxembourg	100	LUF
+27	(MYR) Ringgit malais	100	MYR
+28	(MTL) Livre maltaise	100	MTL
+29	(MXP) Peso mexicain	100	MXP
+30	(NZD) Dollar néo-zélandais	1	NZD
+31	(NOK) Couronne norvégienne	100	NOK
+32	(OMR) Rial d'Oman	100	OMR
+33	(PKR) Roupie pakistanaise	100	PKR
+34	(PHP) Peso des Philippines	100	PHP
+35	(PLN) Zloty polonais	100	PLN
+36	(PTE) Escudo portugais	100	PTE
+37	(RUB) Rouble russe	100	RUB
+38	(SAR) Rial saoudien	100	SAR
+39	(SEK) Couronne suédoise	100	SEK
+40	(SGD) Dollar de Singapour	1	SGD
+41	(SKK) Couronne slovaque	100	SKK
+42	(ESP) Peseta espagnol	100	ESP
+43	(ZAR) Rand sud-africain	100	ZAR
+44	(CZK) Couronne tchèque	100	CZK
+45	(TND) Dinar tunisien	100	TND
+46	(TRL) Livre turque	100	TRL
+47	(HUF) Forint hongrois	100	HUF
+48	autres	100	autres

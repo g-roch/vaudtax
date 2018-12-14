@@ -1,0 +1,6 @@
+1	Ecolier-ère
+2	Etudiant-e
+3	Apprenti-e
+4	Ouvrier-ère
+5	Employé-e
+6	Autre / sans

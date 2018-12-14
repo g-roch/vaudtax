@@ -1,0 +1,315 @@
+#no OFS	commune	taux	OID
+5621	Aclens	62	10
+5742	Agiez	76	19
+5401	Aigle	67.5	1
+5851	Allaman	62	10
+5421	Apples	76	10
+5701	Arnex-sur-Nyon	70	12
+5743	Arnex-sur-Orbe	73	19
+5702	Arzier-Le Muids	64	12
+5511	Assens	70	5
+5422	Aubonne	68	10
+5451	Avenches	68	15
+5744	Ballaigues	66	19
+5423	Ballens	69	10
+5703	Bassins	74	12
+5745	Baulmes	78	19
+5746	Bavois	73	19
+5704	Begnins	67	12
+5581	Belmont-sur-Lausanne	69.5	7
+5902	Belmont-sur-Yverdon	76	19
+5512	Bercher	79	5
+5424	Berolle	77	10
+5471	Bettens	70	5
+5402	Bex	71	1
+5425	Bière	68	10
+5903	Bioley-Magnoux	74	19
+5513	Bioley-Orjulaz	68	5
+5881	Blonay	70	18
+5747	Bofflens	69	19
+5705	Bogis-Bossey	70	12
+5551	Bonvillars	55	19
+5706	Borex	58	12
+5514	Bottens	69	5
+5426	Bougy-Villars	66	10
+5661	Boulens	79	5
+5613	Bourg-en-Lavaux	61	18
+5472	Bournens	80	5
+5473	Boussens	69	5
+5622	Bremblens	66	10
+5515	Bretigny-sur-Morrens	73	5
+5748	Bretonnières	72	19
+5623	Buchillon	53	10
+5552	Bullet	70	19
+5852	Bursinel	65.5	12
+5853	Bursins	71	12
+5854	Burtigny	80	12
+5624	Bussigny	62	7
+5625	Bussy-Chardonney	78	10
+5663	Bussy-sur-Moudon	80	15
+5904	Chamblon	66	19
+5553	Champagne	65	19
+5812	Champtauroz	77	15
+5905	Champvent	71	19
+5882	Chardonne	68	18
+5841	Château-d'Oex	83	16
+5707	Chavannes-de-Bogis	59	12
+5708	Chavannes-des-Bois	59	12
+5907	Chavannes-le-Chêne	78	19
+5475	Chavannes-le-Veyron	77	10
+5627	Chavannes-près-Renens	79	7
+5665	Chavannes-sur-Moudon	73	15
+5749	Chavornay	72	19
+5908	Chêne-Pâquier	79	19
+5909	Cheseaux-Noréaz	70	19
+5582	Cheseaux-sur-Lausanne	74.5	7
+5709	Chéserex	57	12
+5403	Chessel	74	1
+5476	Chevilly	74	10
+5813	Chevroux	70	15
+5601	Chexbres	64	18
+5628	Chigny	62	10
+5629	Clarmont	75	10
+5710	Coinsins	51	12
+5711	Commugny	57	12
+5554	Concise	75	19
+5712	Coppet	53	12
+5404	Corbeyrier	70	1
+5785	Corcelles-le-Jorat	77	15
+5555	Corcelles-près-Concise	71	19
+5816	Corcelles-près-Payerne	72	15
+5883	Corseaux	69	18
+5884	Corsier-sur-Vevey	66	18
+5477	Cossonay	71	10
+5478	Cottens (VD)	74	10
+5713	Crans-près-Céligny	53	12
+5714	Crassier	64	12
+5583	Crissier	65	7
+5910	Cronay	79	19
+5752	Croy	74	19
+5479	Cuarnens	77	10
+5911	Cuarny	79	19
+5456	Cudrefin	59	15
+5516	Cugy (VD)	70	5
+5669	Curtilles	75	15
+5480	Daillens	71	5
+5912	Démoret	81	19
+5631	Denens	70	10
+5632	Denges	62	10
+5481	Dizy	79	10
+5671	Dompierre (VD)	80	15
+5913	Donneloye	73	19
+5715	Duillier	66	12
+5855	Dully	49	12
+5518	Echallens	74	5
+5633	Echandens	62	10
+5634	Echichens	68	10
+5482	Eclépens	46	10
+5635	Ecublens (VD)	62	7
+5584	Epalinges	66	7
+5914	Ependes (VD)	75	19
+5788	Essertes	72	18
+5856	Essertines-sur-Rolle	68	12
+5520	Essertines-sur-Yverdon	73	5
+5521	Etagnières	73	5
+5636	Etoy	61	10
+5716	Eysins	61	12
+5458	Faoug	64	15
+5427	Féchy	64	10
+5483	Ferreyres	76	10
+5522	Fey	75	5
+5556	Fiez	69	19
+5557	Fontaines-sur-Grandson	69	19
+5604	Forel (Lavaux)	68	18
+5717	Founex	57	12
+5523	Froideville	76	5
+5718	Genolier	55	12
+5559	Giez	66	19
+5857	Gilly	66	12
+5428	Gimel	71.5	10
+5719	Gingins	57	12
+5720	Givrins	61	12
+5721	Gland	62.5	12
+5484	Gollion	74	10
+5541	Goumoëns	77	5
+5485	Grancy	70	10
+5817	Grandcour	79.5	15
+5560	Grandevent	68	19
+5561	Grandson	69	19
+5722	Grens	62	12
+5405	Gryon	75	1
+5819	Henniez	69	15
+5673	Hermenches	75	15
+5885	Jongny	71	18
+5804	Jorat-Menthue	72	5
+5806	Jorat-Mézières	76	18
+5585	Jouxtens-Mézery	53	7
+5754	Juriens	79	19
+5474	La Chaux (Cossonay)	77	10
+5758	La Praz	83	19
+5726	La Rippe	65	12
+5498	La Sarraz	66	10
+5889	La Tour-de-Peilz	64	18
+5871	L'Abbaye	76	8
+8011	L'Abbaye (fraction)	76	8
+5741	L'Abergement	81	19
+5586	Lausanne	79	7
+5406	Lavey-Morcles	71	1
+5637	Lavigny	74.5	10
+8001	Le Brassus (fraction)	70	8
+5872	Le Chenit	60	8
+5873	Le Lieu	65	8
+5587	Le Mont-sur-Lausanne	75	7
+8000	Le Sentier (fraction)	70	8
+5731	Le Vaud	75	12
+8012	Les Bioux (fraction)	79	8
+5750	Les Clées	80	19
+5407	Leysin	78	1
+5755	Lignerolle	80	19
+5486	L'Isle	76	10
+5638	Lonay	55	10
+5429	Longirod	81	12
+8002	L'Orient (fraction)	70	8
+5674	Lovatens	75	15
+5675	Lucens	66	15
+5858	Luins	60	12
+5639	Lully (VD)	61	10
+5487	Lussery-Villars	72	5
+5640	Lussy-sur-Morges	66	10
+5606	Lutry	55.5	18
+5790	Maracon	76	18
+5430	Marchissy	79	12
+5919	Mathod	72	19
+5562	Mauborget	70	19
+5488	Mauraz	74	10
+5489	Mex (VD)	61	5
+5723	Mies	49	12
+5821	Missy	72	15
+5490	Moiry	81	10
+5431	Mollens (VD)	74	10
+5921	Molondin	81	19
+5922	Montagny-près-Yverdon	61	19
+5693	Montanaire	72	5
+5756	Montcherand	72	19
+5432	Montherod	78	10
+5540	Montilliez	74	5
+5491	Mont-la-Ville	76	10
+5792	Montpreveyres	77	18
+5886	Montreux	65	18
+5492	Montricher	64	10
+5859	Mont-sur-Rolle	64	12
+5642	Morges	68.5	10
+5527	Morrens (VD)	71	5
+5678	Moudon	75	15
+5563	Mutrux	78.5	19
+5564	Novalles	76	19
+5408	Noville	78.5	1
+5724	Nyon	61	12
+5680	Ogens	78	5
+5409	Ollon	68	1
+5565	Onnens (VD)	65	19
+5923	Oppens	81	5
+5757	Orbe	77	19
+5924	Orges	74	19
+5410	Ormont-Dessous	78.5	1
+5411	Ormont-Dessus	76	1
+5493	Orny	73	10
+5805	Oron	69	18
+5925	Orzens	79	19
+5529	Oulens-sous-Echallens	71	5
+5530	Pailly	77.5	5
+5494	Pampigny	75	10
+5588	Paudex	61.5	7
+5822	Payerne	75	15
+5495	Penthalaz	74	5
+5496	Penthaz	71	5
+5531	Penthéréaz	78	5
+5860	Perroy	60	12
+5533	Poliez-Pittet	71	5
+5497	Pompaples	66	10
+5926	Pomy	71	19
+5725	Prangins	56	12
+5759	Premier	81	19
+5643	Préverenges	64	10
+5683	Prévonloup	74	15
+5589	Prilly	73.5	7
+5566	Provence	81	19
+5607	Puidoux	70	18
+5590	Pully	61	7
+5760	Rances	78	19
+5591	Renens (VD)	78.5	7
+5412	Rennaz	67.5	1
+5644	Reverolle	76	10
+5609	Rivaz	63.5	18
+5413	Roche (VD)	68	1
+5861	Rolle	59.5	12
+5761	Romainmôtier-Envy	81	19
+5592	Romanel-sur-Lausanne	70	7
+5645	Romanel-sur-Morges	56	10
+5798	Ropraz	77.5	15
+5684	Rossenges	60	15
+5842	Rossinière	81	16
+5843	Rougemont	74	16
+5928	Rovray	73	19
+5534	Rueyres	73	5
+5535	Saint-Barthélemy (VD)	77	5
+5727	Saint-Cergue	66	12
+5568	Sainte-Croix	70	19
+5434	Saint-George	71	12
+5888	Saint-Légier-La Chiésaz	67	18
+5435	Saint-Livres	69	10
+5436	Saint-Oyens	81	10
+5646	Saint-Prex	55	10
+5610	Saint-Saphorin (Lavaux)	67	18
+5648	Saint-Sulpice (VD)	55	7
+5437	Saubraz	80	10
+5611	Savigny	69	18
+5499	Senarclens	68.5	10
+5762	Sergey	78	19
+5799	Servion	69	18
+5500	Sévery	75	10
+5728	Signy-Avenex	58	12
+5929	Suchy	70	19
+5501	Sullens	70	5
+5930	Suscévaz	72	19
+5688	Syens	75.6	15
+5729	Tannay	61	12
+5862	Tartegnin	81	12
+5571	Tévenon	73	19
+5649	Tolochenaz	65	10
+5730	Trélex	57	12
+5827	Trey	80	15
+5931	Treycovagnes	75	19
+5828	Treytorrens (Payerne)	84	15
+5932	Ursins	78	19
+5831	Valbroye	73	15
+5933	Valeyres-sous-Montagny	72	19
+5763	Valeyres-sous-Rances	65	19
+5934	Valeyres-sous-Ursins	79	19
+5764	Vallorbe	73	19
+5765	Vaulion	81	19
+5650	Vaux-sur-Morges	56	10
+5890	Vevey	73	18
+5891	Veytaux	69	18
+5732	Vich	68	12
+5935	Villars-Epeney	60	19
+5690	Villars-le-Comte	70	15
+5537	Villars-le-Terroir	73	5
+5651	Villars-Sainte-Croix	59	7
+5652	Villars-sous-Yens	76	10
+5830	Villarzel	79	15
+5414	Villeneuve (VD)	69	1
+5863	Vinzel	67	12
+5539	Vuarrens	75	5
+5692	Vucherens	79	15
+5503	Vufflens-la-Ville	67	5
+5653	Vufflens-le-Château	55	10
+5937	Vugelles-La Mothe	70	19
+5766	Vuiteboeuf	77	19
+5803	Vulliens	78	15
+5654	Vullierens	76	10
+5464	Vully-les-Lacs	67	15
+5655	Yens	73	10
+5938	Yverdon-les-Bains	76.5	19
+5939	Yvonand	73	19
+5415	Yvorne	71.5	1
