@@ -1,0 +1,16 @@
+Adaptation of launcher for Debian package
+--- a/vaudtax-2017
++++ b/vaudtax-2017
+@@ -5,11 +5,7 @@
+ 
+ classpath='lib/dvbern-lib-update.jar'
+ 
+-if [ ! -f ///$classpath ] ; then
+-	cd `dirname $0`
+-else
+-	cd //
+-fi
++cd `dirname $0`/../share/vaudtax
+ 
+ type java &> /dev/null
+ if [ "$?" -ne "0" ] ; then

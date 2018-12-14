@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=VaudTax 2017
+GenericName=VaudTax 2017
+Comment=VaudTax 2017
+Exec=vaudtax
+TryExec=vaudtax
+Terminal=false
+StartupNotify=true
+Icon=vaudtax

@@ -1,0 +1,15 @@
+Ajout d'un makefile pour la génération de l'icone
+--- /dev/null
++++ b/Makefile
+@@ -0,0 +1,11 @@
++
++
++all: vaudtax
++
++vaudtax: vaudtax-2017
++	cp $< $@
++install:
++	convert config/cd/icons/mainframe16.gif vaudtax.png
++
++clean:
++	rm -f vaudtax.png vaudtax

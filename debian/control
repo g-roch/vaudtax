@@ -1,0 +1,24 @@
+Source: vaudtax
+Section: non-free/misc
+Priority: optional
+Maintainer: Gabriel Roch <gabriel@g-roch.ch>
+Build-Depends:
+ debhelper (>= 10),
+ imagemagick
+Standards-Version: 3.9.8
+Homepage: https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot/vaudtax/
+Vcs-Git: http://sodium.roch.website/git/pako/vaudtax.git/
+Vcs-Browser: http://sodium.roch.website/git/pako/vaudtax.git/
+
+Package: vaudtax
+Architecture: all
+Depends:
+ ${misc:Depends},
+ libwebkitgtk-1.0-0,
+ java8-runtime
+Description: Déclaration d'impôt pour le canton de Vaud.
+ VaudTax est le logiciel officiel du Canton, pour remplir la déclaration
+ d'impôt. Ce logiciel vous permet une économie de temps et de moyens. En
+ utilisant cet outil vous bénéficiez d'une aide permanente en ligne et d'un
+ accès direct aux formulaires. Vous pouvez aussi récupérer vos données d'année
+ en année.

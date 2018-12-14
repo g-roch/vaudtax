@@ -1,0 +1,8 @@
+lib usr/share/vaudtax
+config usr/share/vaudtax
+version.xml usr/share/vaudtax
+vaudtax usr/bin
+vaudtax.png usr/share/icons/hicolor/16x16/apps
+debian/vaudtax.desktop usr/share/applications
+
+
