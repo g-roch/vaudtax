@@ -1,9 +1,15 @@
 Adaptation of launcher for Debian package
---- a/vaudtax-2017
-+++ b/vaudtax-2017
-@@ -5,11 +5,7 @@
+--- a/vaudtax-2018
++++ b/vaudtax-2018
+@@ -1,5 +1,3 @@
+-# This script starts the application on Linux (like .exe in windows)
+-
+ #!/bin/bash
+ # Unset OS Java-Paths
+ unset JAVA_HOME
+@@ -11,11 +9,7 @@
  
- classpath='lib/dvbern-lib-update.jar'
+ classpath='lib/dvbern-lib-update.jar:lib/cryptutil.jar'
  
 -if [ ! -f ///$classpath ] ; then
 -	cd `dirname $0`

@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=VaudTax 2017
-GenericName=VaudTax 2017
-Comment=VaudTax 2017
+Name=VaudTax 2018
+GenericName=VaudTax 2018
+Comment=VaudTax 2018
 Exec=vaudtax
 TryExec=vaudtax
 Terminal=false

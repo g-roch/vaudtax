@@ -1,4 +1,5 @@
 lib usr/share/vaudtax
+jre usr/share/vaudtax
 config usr/share/vaudtax
 version.xml usr/share/vaudtax
 vaudtax usr/bin
