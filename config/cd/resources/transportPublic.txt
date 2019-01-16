@@ -1,5 +1,5 @@
 # Professional deduction scale for public transports.	
-# [Count in KM] [Allowed deduction]
+# [Count in KM] [Allowed deduction]	
 0	0
 1	1176
 2	1176
@@ -51,4 +51,4 @@
 48	3864
 49	3896
 50	3928
-51	3960
+51	4080
