@@ -1,4 +1,4 @@
-Installation de VaudTax 2017
+Installation de VaudTax 2018
 ============================
 
 VaudTax ne peut fonctionner que sur les systèmes possédant une installation de Java fonctionnelle et récente (version 8 minimum), les bibliothèques Gnome (GTK et Gnome VFS), ainsi que la bibliothèque utilitaire WebKit.
